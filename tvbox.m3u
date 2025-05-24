@@ -260,7 +260,9 @@ https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/26/35/61/07/69
 https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/29/16/20/37/23/48/34/56/73/7/a530e2e3-3956-4b32-a5f0-adbf1c32d54f/kaltura/desc_0d987c570aea591ca5f5e098d49f2c7a/vOuINhcCSKA0/master.m3u8
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",21.Bölüm
-https://pixeldrain.com/api/file/bnMEi69i
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00019/baklvvdaocgg_,l,n,.urlset/index-f1-v1-a1.m3u8?t=KmihPU7aP0eT9gbfo1i_Shkb7SSWeBEvgJVEtiJhXjo&s=1748050108&e=1199998800&f=99692&i=0.0&sp=0
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",22.Bölüm
 https://pixeldrain.com/api/file/qR1LMpHW
@@ -278,13 +280,17 @@ https://pixeldrain.com/api/file/b49Mh7bk
 https://pixeldrain.com/api/file/6bkLusjQ
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",27.Bölüm
-https://pixeldrain.com/api/file/G3kXaMRr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00019/4180ttnn4mer_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Vs9tsCbBvr-mplsvTBm7FMSQ7N0HH3784m_0gB534zc&s=1748050186&e=1199998800&f=99695&i=0.0&sp=0
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",28.Bölüm
 https://pixeldrain.com/api/file/e2pnCY2c
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",29.Bölüm
-https://pixeldrain.com/api/file/Scv1q6vi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00014/wvd9jf8ps8kg_,l,n,.urlset/index-f1-v1-a1.m3u8?t=10vkls_T0p6KCK_ti-j7kMCZuJGW6UAxcOQvXvIdEn8&s=1748050238&e=1199998800&f=71589&srv=s427&i=0.0&sp=0&p1=s230&p2=s230
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",30.Bölüm
 https://pixeldrain.com/api/file/tow5BbKo
