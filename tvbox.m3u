@@ -186,6 +186,11 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
 https://l0.4928d54d950ee70q32.click/yayint1.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beinsports.png" group-title="MAÇ YAYINLARI",Bein Sports Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://macizlevip522.shop/
+https://a.strmrdr-cf-worker-1778a832bb.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5061/a.strmrdr-cf-worker-1778a832bb.workers.dev/chunklist_hd.m3u8?verify=1748202821354~176.42.36.18~d2a12731bddf8fc9564d562cb796dd09
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beinsports.png" group-title="MAÇ YAYINLARI",Bein Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1338.xyz/
@@ -193,8 +198,8 @@ https://g0.4928d54d950ee70q7.lat/yayin1.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beinsports.png" group-title="MAÇ YAYINLARI",Bein Sports 1 Yedek
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://macizlevip534.shop/
-https://a.strmrdr-cf-worker-f8450e20ec.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-f8450e20ec.workers.dev/chunklist_hd.m3u8?verify=1748109723648~176.42.36.18~fb9f4e3814908e25b5eb5af93522165a
+#EXTVLCOPT:http-referrer=https://macizlevip522.shop/
+https://a.strmrdr-cf-worker-1778a832bb.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-1778a832bb.workers.dev/chunklist_hd.m3u8?verify=1748202927739~176.42.36.18~c79e494006f73fbee41ac3bf4496b5a2
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beinsports.png" group-title="MAÇ YAYINLARI",Bein Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -240,8 +245,8 @@ https://steep-silence-b428.simitcigazozcuknk.workers.dev/https://fener2.demoscri
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1336.xyz/
-https://f0.4928d54d950ee70q6.lat/yayin1.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1338.xyz/
+https://h0.4928d54d950ee70q8.lat/yayinss.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
