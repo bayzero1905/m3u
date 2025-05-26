@@ -25,6 +25,31 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
 
 
+#EXTINF:0 tvg-logo="" group-title="FİLM",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+
+
+#EXTINF:0 tvg-logo="" group-title="FİLM",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+
+
+#EXTINF:0 tvg-logo="" group-title="FİLM",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+
+
+#EXTINF:0 tvg-logo="" group-title="FİLM",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/a-better-tomorrow@2x.webp" group-title="FİLM",Daha İyi Bir Yarın
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00023/3axc0qucjcen_,l,n,.urlset/index-f1-v1-a1.m3u8?t=VS_kxAvlZUKcrRJqloexO-p6o_WWprtvFJPAe_FHv8M&s=1748262233&e=1199998800&f=116791&srv=s375&i=0.0&sp=0&p1=s230&p2=s230
+
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/nyctophobia-hdf@2x.webp" group-title="FİLM",Nyctophobia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
