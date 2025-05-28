@@ -40,13 +40,11 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
 
 
-#EXTINF:0 tvg-logo="" group-title="FİLM",
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
-
-
 #EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/502010/poster/thumb-lg/nemlizade.webp" group-title="FİLM",Nemlizade
 https://vs14.pictureflix.org/v/Nemlizade.2024.WEB-DL.1080p.H.264-HDM/480.m3u8
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/502008/poster/thumb-lg/horoz-dovusu.webp" group-title="FİLM", Horoz Dövüşü
+https://vs12.photofunia.pro/v/Horoz.Dovusu.2022.WEB-DL.1080p.H.264-HDM/480.m3u8
 
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/night-of-the-hunted@2x.webp" group-title="FİLM",Night of the Hunted
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
