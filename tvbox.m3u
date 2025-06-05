@@ -15,6 +15,11 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/sinners@2x.webp" group-title="FİLM",Günahkarlar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s231.rapidrame.com/hls2/01/00023/59xqhbyhpkj0_,l,n,.urlset/index-f1-v1-a1.m3u8?t=TByoTliKbPy_FcvtGtMsuiwaIgmK6HJiUtkqLgpScmw&s=1749145383&e=1199998800&f=116902&srv=s429&i=0.0&sp=0&p1=s231&p2=s231
+
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/50-km-h@2x.webp" group-title="FİLM",50 kmh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
