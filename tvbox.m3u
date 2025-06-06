@@ -15,15 +15,20 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/predator-killer-of-killers@2x.webp" group-title="FİLM",Predator Killer of Killers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
-https://s230.rapidrame.com/hls2/01/00023/s12yjv4rcuc1_,l,n,.urlset/index-f1-v1-a1.m3u8?t=fex8AnXYr0VYotHvF6gcbFZzqwZGmITsVWpsik7kY5w&s=1749239099&e=1199998800&f=117078&srv=s429&i=0.0&sp=0&p1=s230&p2=s230
-
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-devil-s-climb@2x.webp" group-title="FİLM",The Devils Climb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
 https://s230.rapidrame.com/hls2/01/00023/qh8gkuuvse6l_,l,n,.urlset/index-f1-v1-a1.m3u8?t=SvesKF53tMvgdEVzUF21Z0Ss087n0qLhrf9zegETlRY&s=1749219144&e=1199998800&f=117018&srv=s429&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/her-seyin-basi-merkur@2x.webp" group-title="FİLM",Her Şeyin Başı Merkür
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00023/2ll30f2m3m70_,l,n,.urlset/index-f1-v1-a1.m3u8?t=9ZqeWl2ZRM0xMtmxYHQfmeKjn3z2BFUWk9SIrvO_xQ8&s=1749239762&e=1199998800&f=117082&srv=s427&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/predator-killer-of-killers@2x.webp" group-title="FİLM",Predator Killer of Killers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00023/s12yjv4rcuc1_,l,n,.urlset/index-f1-v1-a1.m3u8?t=fex8AnXYr0VYotHvF6gcbFZzqwZGmITsVWpsik7kY5w&s=1749239099&e=1199998800&f=117078&srv=s429&i=0.0&sp=0&p1=s230&p2=s230
 
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/straw@2x.webp" group-title="FİLM",Son Damla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
