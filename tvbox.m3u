@@ -15,6 +15,11 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/straw@2x.webp" group-title="FİLM",Son Damla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00023/dbz1ivrqweqz_,l,n,.urlset/index-f1-v1-a1.m3u8?t=hf6l61NIfCc8JyjcBqAE4kEk25eUi58aWiPj-euXZoM&s=1749218728&e=1199998800&f=117077&srv=s429&i=0.0&sp=0&p1=s230&p2=s230
+
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/sinners@2x.webp" group-title="FİLM",Günahkarlar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
