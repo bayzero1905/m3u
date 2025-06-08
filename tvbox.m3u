@@ -280,6 +280,9 @@ https://vs10.photofunia.pro/v/The.Dive.2023.Bluray.1080p.DUAL.x264-HDM/480.m3u8
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ MAÇ YAYINLARI ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tv8.png" group-title="MAÇ YAYINLARI",TV8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7h5p4giwgbs0&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tivibuspor.png" group-title="MAÇ YAYINLARI",Tivibu Spor 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
