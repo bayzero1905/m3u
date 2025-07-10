@@ -15,6 +15,11 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/mahserin-uc-delisi@2x.webp" group-title="FİLM",Mahşerin Üç Delisi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s231.rapidrame.com/hls2/01/00023/vvl6ohqjo7zl_,l,n,.urlset/index-f1-v1-a1.m3u8?t=4Rw4Bwl_2gslAa4MEZxA4SAJQNyKUBkhKAqkygNM6Eo&s=1752162358&e=1199998800&f=117838&srv=s430&i=0.0&sp=0&p1=s231&p2=s231
+
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/i-am-not-him@2x.webp" group-title="FİLM",Ben O Değilim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
