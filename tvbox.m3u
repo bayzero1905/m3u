@@ -15,15 +15,20 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/black-water-abyss-izle@2x.webp" group-title="FİLM",Black Water: Abyss 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
-https://s231.rapidrame.com/hls2/01/00023/8h7q4y71tql9_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Bdc4DpItkrw2Pz2KWApvC7SGInpaL6xAYdqb6wvq9Ro&s=1752609361&e=1199998800&f=117967&srv=s430&i=0.0&sp=0&p1=s231&p2=s231
-
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/son-bir-tatil@2x.webp" group-title="FİLM",Son Bir Tatil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
 https://s231.rapidrame.com/hls2/01/00023/u6yj00skx808_,l,n,.urlset/index-f1-v1-a1.m3u8?t=MFAUBlzUy27CnDuSzbTHVKBWQjOigZm-xXHT4j6DT7o&s=1752602390&e=1199998800&f=117894&srv=s430&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/may-december@2x.webp" group-title="FİLM",Bir Skandalın Peşinde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s231.rapidrame.com/hls2/01/00023/mi1vtg9setfn_,l,n,.urlset/index-f1-v1-a1.m3u8?t=0Q7DDwKZW7_7W7BuTvGsUsUQeushnEeIb-EbPVT_M44&s=1752680579&e=1199998800&f=118000&srv=s430&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/black-water-abyss-izle@2x.webp" group-title="FİLM",Black Water: Abyss 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s231.rapidrame.com/hls2/01/00023/8h7q4y71tql9_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Bdc4DpItkrw2Pz2KWApvC7SGInpaL6xAYdqb6wvq9Ro&s=1752609361&e=1199998800&f=117967&srv=s430&i=0.0&sp=0&p1=s231&p2=s231
 
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/clown-in-a-cornfield@2x.webp" group-title="FİLM",Clown in a Cornfield
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
