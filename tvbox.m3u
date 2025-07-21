@@ -15,6 +15,11 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/ask-sadece-bir-an@2x.webp" group-title="FİLM",Aşk Sadece Bir An
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00023/x6h4zy6n5w2n_,l,n,.urlset/index-f1-v1-a1.m3u8?t=c7b6asCe_Swg8eBKfWWk-Zt58BxvFGgyzdIIyYO2BTI&s=1753137173&e=1199998800&f=118127&srv=s430&i=0.0&sp=0&p1=s230&p2=s230
+
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/inheritance-hdfc@2x.webp" group-title="FİLM",Inheritance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
