@@ -15,6 +15,11 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-time-it-takes@2x.webp" group-title="FİLM",The Time It Takes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s431.rapidrame.com/hls2/01/00023/jtqlu593cxyq_,l,n,.urlset/index-f1-v1-a1.m3u8?t=EL4Ggud-QhSdUW38ep5RlGGoa62XG4ae2CLcdc14RNo&s=1753407555&e=86400&f=118159&srv=s430&i=0.0&sp=0&p1=s431&p2=s431
+
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/ask-sadece-bir-an@2x.webp" group-title="FİLM",Aşk Sadece Bir An
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
