@@ -15,6 +15,11 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/war-of-the-worlds@2x.webp" group-title="FİLM",War of the Worlds
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s431.rapidrame.com/hls2/01/00023/qfqbfug8z592_,l,n,.urlset/index-f1-v1-a1.m3u8?t=b0NelpZ5bZ_KCXEszO_LmI_rUZaVrSls2se1MnmrvSM&s=1753934778&e=86400&f=118356&srv=s430&i=0.0&sp=0&p1=s431&p2=s431
+
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-movie-teller@2x.webp" group-title="FİLM",The Movie Teller
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
