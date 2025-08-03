@@ -15,6 +15,21 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/drop@2x.webp" group-title="FİLM",Drop Kabul Et veya Reddet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00023/3czzsmg9dbkh_,l,n,.urlset/index-f1-v1-a1.m3u8?t=w20Hxq3lRp2b-bYyYkYQeh8kfEB9OxmIMJ-U1WfL3ic&s=1754254698&e=86400&f=118490&srv=s430&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/tuesday@2x.webp" group-title="FİLM",Ayrılış
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s231.rapidrame.com/hls2/01/00023/aifcyipfo45w_,l,n,.urlset/index-f1-v1-a1.m3u8?t=d4Pb2I-l62-PDiR-UVj9jaxOm0M2rqCeSkogIGQinLw&s=1754254785&e=86400&f=118486&srv=s430&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/on-the-shore@2x.webp" group-title="FİLM",Kıyıda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s431.rapidrame.com/hls2/01/00023/90bx7hcj1f3e_,l,n,.urlset/index-f1-v1-a1.m3u8?t=php1zjUVh0uHKG73ZcQmcMST7HLVzpGDuDSwGVzyvpo&s=1754254854&e=86400&f=118485&srv=s430&i=0.0&sp=0&p1=s431&p2=s431
+
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/my-oxford-year@2x.webp" group-title="FİLM",My Oxford Year
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
