@@ -15,10 +15,8 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/drop@2x.webp" group-title="FİLM",Drop Kabul Et veya Reddet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
-https://s230.rapidrame.com/hls2/01/00023/3czzsmg9dbkh_,l,n,.urlset/index-f1-v1-a1.m3u8?t=w20Hxq3lRp2b-bYyYkYQeh8kfEB9OxmIMJ-U1WfL3ic&s=1754254698&e=86400&f=118490&srv=s430&i=0.0&sp=0&p1=s230&p2=s230
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/59831/poster/watch-lg/apartment-7a-hd.webp" group-title="FİLM",Apartment 7A
+https://vs18.photofunny.org/v/Apartment.7A.2024.WEB-DL.1080p.DUAL.H.264-HDM/720.m3u8
 
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/tuesday@2x.webp" group-title="FİLM",Ayrılış
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
