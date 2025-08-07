@@ -758,6 +758,26 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
 https://s230.rapidrame.com/hls2/01/00015/xeawc6n77epb_,l,n,.urlset/index-f1-v1-a1.m3u8?t=t7QDT6HPlmhG0KspuAtqHmv3lypUHMWmB9sf2AjVBW0&s=1754549357&e=86400&f=75700&srv=s429&i=0.0&sp=0&p1=s230&p2=s230
 
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/wednesday@2x.webp" group-title="Wednesday",2.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s231.rapidrame.com/hls2/01/00015/izuzip7gdl4h_,l,n,.urlset/index-f1-v1-a1.m3u8?t=e0beafIy3CDpE97PcER6FGTUudh87Wv751V3gZYjLWY&s=1754549637&e=86400&f=75701&srv=s429&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/wednesday@2x.webp" group-title="Wednesday",3.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00015/zkyialsvzryx_,l,n,.urlset/index-f1-v1-a1.m3u8?t=UUL4qOCUszmqjsU89ov7sPmANbLmyMui_5-NgGFza8o&s=1754549689&e=86400&f=75702&srv=s429&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/wednesday@2x.webp" group-title="Wednesday",4.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00015/begxvyu72q84_,l,n,.urlset/index-f1-v1-a1.m3u8?t=rhUsBtc0tSa9dkGPH0IZGwbGIpzIujlJuSFaBrh7FkA&s=1754549779&e=86400&f=75703&srv=s429&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/wednesday@2x.webp" group-title="Wednesday",5.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00015/1nzrwtjo033o_,l,n,.urlset/index-f1-v1-a1.m3u8?t=271vml0Uqj9kLyp0Q_KUuv2-a1Q3zU580zeU8COFZms&s=1754549854&e=86400&f=75704&srv=s429&i=0.0&sp=0&p1=s230&p2=s230
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Wednesday",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
