@@ -804,6 +804,17 @@ https://s231.rapidrame.com/hls2/01/00015/h87tjcaipoky_,l,n,.urlset/index-f1-v1-a
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Wednesday",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
+# ♦♦♦♦♦ BEHZAT Ç ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://images.justwatch.com/poster/330560231/s332/" group-title="BEHZAT Ç",1.Bölüm
+https://vod3.cf.dmcdn.net/sec2(8Rl2JJSidmAgSRXTNnX9XqX05N02a0B9-uMZga3pwXLtjtUcQfowGOd8FdaqlTHuP6iPDwRr03IflKuUWfUpUTPUJdc5H_ZYplfsRJ-i1S4L4tQN_IpHwkEut65BWHYW53-Y34YsnSLhmJjYBg7IIVsnNpWHFqqVMI1Uo9POEr8cho5xfEyCvVqMGjZt8s0z)/video/fmp4/585676668/h264_aac_hd/2/manifest.m3u8
+
+#EXTINF:0 tvg-logo="https://images.justwatch.com/poster/330560231/s332/" group-title="BEHZAT Ç",2.Bölüm
+https://vod3.cf.dmcdn.net/sec2(yy3-y5BUe-uPRJv7sKM_P-imEC_PL0SuLdOEgSj2fubi2vKqxU9uesll0WhL182XKPlOCT-WFMjzXS_D3SSwK41DT3YZbug5oMpYc5Vtf1vy4iciuXIbtzVtck-TbsGruF3Aq5lU1lnebWBuPJ1S5UqAQJbT3jDGoUN94ufB6YKmiwqgR5bJMr9XuXJlKK2Y)/video/fmp4/585915702/h264_aac_hd/2/manifest.m3u8
+
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="BEHZAT Ç",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
+
 # ♦♦♦♦♦ END ♦♦♦♦♦
 
 
