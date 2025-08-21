@@ -339,6 +339,12 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ MAÇ YAYINLARI ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/trt1.png" group-title="MAÇ YAYINLARI",TRT 1
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6jo8gz6q2uaz&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/htspor.png" group-title="MAÇ YAYINLARI",HT SPOR
+https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7oi72z5896zo&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tv8.png" group-title="MAÇ YAYINLARI",TV8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7h5p4giwgbs0&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
@@ -366,9 +372,6 @@ https://a.strmrdr-cf-worker-07897c0fd4.workers.dev/bc2b05d321cb80050c5d035a9daeb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1338.xyz/
 https://h0.4928d54d950ee70q8.lat/yayinb3.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/trt1.png" group-title="MAÇ YAYINLARI",TRT 1
-https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6jo8gz6q2uaz&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_720p.m3u8
@@ -403,12 +406,9 @@ https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinex3.m3u8
 https://steep-silence-b428.simitcigazozcuknk.workers.dev/https://fener2.demoscript.buzz/hls/eu1.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT
-https://a.strmrdr-cf-worker-14731777d8.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5101/a.strmrdr-cf-worker-14731777d8.workers.dev/chunklist_hd.m3u8?verify=1754607667172~176.42.37.175~de2caa6f215cea417f7cb3a9876000b0
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1356.xyz/
-https://r0.4928d54d950ee70q17.lat/yayin1.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1374.xyz/
+https://seven.4928d54d950ee70q27.lat/yayinss.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
