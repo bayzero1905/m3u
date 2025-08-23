@@ -20,9 +20,7 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 https://s230.rapidrame.com/hls2/01/00023/3iqo82ap99rw_,l,n,.urlset/index-f1-v1-a1.m3u8?t=C3TzhjAaR4lStjbVI7ZtwoS9mfjzgcLfdyqIp3WeB0w&s=1755620629&e=86400&f=118297&srv=s429&i=0.0&sp=0&p1=s230&p2=s230
 
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/presence@2x.webp" group-title="FİLM",Varlık
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
-https://s231.rapidrame.com/hls2/01/00023/8aqcrkbuxikc_,l,n,.urlset/index-f1-v1-a1.m3u8?t=1hHPQyrY7PjxvJZ66TcSOOrMaNTfhsX1VO99tkHf8HI&s=1754657265&e=86400&f=118566&srv=s433&i=0.0&sp=0&p1=s231&p2=s231
+https://vs11.pictureflix.org/v/Fall.for.Me.2025.WEB-DL.1080p.DUAL2/480.m3u8
 
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/y2k@2x.webp" group-title="FİLM",Y2K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
