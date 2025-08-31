@@ -19,10 +19,15 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
 https://s230.rapidrame.com/hls2/01/00023/3iqo82ap99rw_,l,n,.urlset/index-f1-v1-a1.m3u8?t=C3TzhjAaR4lStjbVI7ZtwoS9mfjzgcLfdyqIp3WeB0w&s=1755620629&e=86400&f=118297&srv=s429&i=0.0&sp=0&p1=s230&p2=s230
 
-#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/y2k@2x.webp" group-title="FİLM",Film
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/y2k@2x.webp" group-title="FİLM",Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
-https://s230.rapidrame.com/hls2/01/00023/riy18mz85my9_,l,n,.urlset/index-f1-v1-a1.m3u8?t=lszRgbRrLdDXxSgp-EKPGGGwXn0doQv95x_SewCUE2E&s=1756472497&e=86400&f=119000&srv=s430&i=0.0&sp=0&p1=s230&p2=s230
+https://s231.rapidrame.com/hls2/01/00023/2ztb7zkyepw5_,l,n,.urlset/index-f1-v1-a1.m3u8?t=8SobA1blhzkUnEqjv9FGbHmlUSsQ8C9joN3-ifep1n0&s=1756633447&e=86400&f=119112&srv=s433&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/y2k@2x.webp" group-title="FİLM",Film 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00023/es5u4g1812bh_,l,n,.urlset/index-f1-v1-a1.m3u8?t=m1hr-AxrDAPAVsvVYauyNcqwiq9P7Q0lARSpp-fZx38&s=1756646677&e=86400&f=118448&srv=s430&i=0.0&sp=0&p1=s230&p2=s230
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="FİLM",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
@@ -148,10 +153,10 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 # ♦♦♦♦♦ BEHZAT Ç ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://images.justwatch.com/poster/330560231/s332/" group-title="BEHZAT Ç",3.Bölüm
-
+https://jfn2.uk-traffic-076.com/hls2/02/00027/6pe446hao4pf_n/seg-1-v1-a1.ts?t=wLfWf24gTwJK4yFtz_zuGSFYiNuzxJ3MWV715g-7Uu4&s=1756659223&e=43200&f=137972&srv=x1&i=0.0&sp=5000&fr=6pe446hao4pf&p1=jfn2&p2=jfn2
 
 #EXTINF:0 tvg-logo="https://images.justwatch.com/poster/330560231/s332/" group-title="BEHZAT Ç",4.Bölüm
-
+https://exeter.eu-traffic-05.com/hls2/02/00027/to7xoia6asvg_n/seg-1-v1-a1.ts?t=ZzQcC5d3yIiIyelvSdQwd4vnWiC_1Gy3H0UyQAz1IJQ&s=1756659271&e=43200&f=137975&srv=x1&i=0.0&sp=5000&fr=to7xoia6asvg&p1=exeter&p2=exeter
 
 #EXTINF:0 tvg-logo="https://images.justwatch.com/poster/330560231/s332/" group-title="BEHZAT Ç",5.Bölüm
 
