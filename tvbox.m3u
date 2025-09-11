@@ -14,6 +14,23 @@ https://video.fadb6-3.fna.fbcdn.net/o1/v/t2/f2/m69/AQOB-LLF4XQiMR-uVNV3Y1cHD-jmi
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/502529/poster/watch-lg/kadinlara-mahsus.webp" group-title="FİLM",Kadınlara Mahsus
+https://vs9.photoflax.org/v/Kadinlara.Mahsus.2023.WEB-DL.1080p.H.264-HDM/480.m3u8
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.com/images/list/poster/opus@2x.webp" group-title="FİLM",Opus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.com/
+https://vs16.photofunny.org/v/Opus.2025.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/502515/poster/watch-lg/ucaklar-trenler-ve-arabalar.webp" group-title="FİLM",Uçaklar, Trenler ve Arabalar
+https://vs12.photour.org/v/Planes,Trains.Automobiles.1987.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.com/images/list/poster/highest-2-lowest@2x.webp" group-title="FİLM",Highest 2 Lowest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.com/
+https://s230.rapidrame.com/hls2/01/00023/jzifidqv8m9v_,l,n,.urlset/index-f1-v1-a1.m3u8?t=EMyC2o-iYtLpl2jQjWLTMgmwFum1YgveZkwblzHz5lU&s=1757349060&e=86400&f=119280&srv=s430&i=0.0&sp=0&p1=s230&p2=s230
+
 #EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/hHPovtU4b96LHcoeEwRkGHI5btw.jpg" group-title="FİLM",Black Bag
 https://vs9.photoflax.org/v/Ghostlight.2024.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8
 
@@ -26,7 +43,7 @@ https://hls2-cdn21.streamupcdn.xyz/hls/wTagwb1yNGVVtJv3eE4K0C4RTq0n2c/index_1152
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/y2k@2x.webp" group-title="FİLM",Film 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
-https://s230.rapidrame.com/hls2/01/00023/bdohbm8xzzqm_,l,n,.urlset/index-f1-v1-a1.m3u8?t=thK4rE-hKfGRUlNE9bluI1sJh6v3Din5ykfW5ySEKbA&s=1757098087&e=86400&f=119274&srv=s433&i=0.0&sp=0&p1=s230&p2=s230
+https://s230.rapidrame.com/hls2/01/00023/nrnqjtu168zo_,l,n,.urlset/index-f1-v1-a1.m3u8?t=kyRo6vH8IZ83bJdfqEmx6vH-tduHovLxJ8lphv8ysQ8&s=1757194354&e=86400&f=119286&srv=s433&i=0.0&sp=0&p1=s230&p2=s230
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="FİLM",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
@@ -133,10 +150,10 @@ https://r0.4928d54d950ee70q17.lat/yayinex1.m3u8
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/1D8KstW2qT1CrZrkMOsUIsa9O9CImUJM1ZmGjNusxOOLoPNwtJvSg8O5sbKNcCCEMSTaGBbb0OB1n9oqTP3p0w/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 1
-https://yhnml.cfd/cdn/cosmote2/main.m3u8
+https://covannis.top/topsportlivegt/cdn/4021991/main.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 2
-https://hjxsa.cfd/daddyhd/cdn/623/main.m3u8
+https://covannis.top/topsportlivegt/cdn/4021991/main.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 3
 https://jhvggr.site/daddyhd/cdn/591/main.m3u8
