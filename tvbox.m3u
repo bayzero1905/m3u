@@ -17,9 +17,15 @@ https://video.fadb6-3.fna.fbcdn.net/o1/v/t2/f2/m69/AQOB-LLF4XQiMR-uVNV3Y1cHD-jmi
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.la/images/list/poster/sitaare-zameen-par@2x.webp" group-title="FİLM",Yerdeki Süper Yıldızlar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
+https://s231.rapidrame.com/hls2/01/00023/rbr6bp9ctcmb_,l,n,.urlset/index-f1-v1-a1.m3u8?t=pdF5XEm36uuejUKeIR6gQu9L3mfmysTynwS-1gTxTwo&s=1757711493&e=86400&f=119493&srv=s433&i=0.0&sp=0&p1=s231&p2=s231
 
-#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/502529/poster/watch-lg/kadinlara-mahsus.webp" group-title="FİLM",Kadınlara Mahsus
-https://vs9.photoflax.org/v/Kadinlara.Mahsus.2023.WEB-DL.1080p.H.264-HDM/480.m3u8
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.la/images/list/poster/until-dawn@2x.webp" group-title="FİLM",Şafağa Kadar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
+https://s230.rapidrame.com/hls2/01/00023/epbdogkqb6i9_,l,n,.urlset/index-f1-v1-a1.m3u8?t=-WiTBxhJbjIlAQmhdgGHaLReGdxHsLTw5mm_3rbzvAI&s=1757711380&e=86400&f=119492&srv=s430&i=0.0&sp=0&p1=s230&p2=s230
 
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.com/images/list/poster/opus@2x.webp" group-title="FİLM",Opus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
