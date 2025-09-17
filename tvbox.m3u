@@ -1,0 +1,208 @@
+#EXTM3U
+
+# ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/veliaht.png" group-title="TV DİZİLERİ",Veliaht 1.Bölüm
+https://video.twimg.com/amplify_video/1966221311723626497/pl/3i9GAl-WIHN9PNo1.m3u8?tag=21
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kskanmak.png" group-title="TV DİZİLERİ",Kıskanmak 1.Bölüm
+https://video.twimg.com/amplify_video/1968034002440183808/pl/iKJiNrbdb0lR_wtZ.m3u8?tag=21
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.png" group-title="TV DİZİLERİ",Eşref Rüya 13.Bölüm
+https://video.twimg.com/amplify_video/1935439912204902400/pl/t6eZTuseQdWdrmAx.m3u8?tag=21
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 44.Bölüm
+https://video.twimg.com/amplify_video/1923118382347354112/pl/CnGIGSNAkZzwq3nI.m3u8?tag=21
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 205.Bölüm
+https://video.fadb6-3.fna.fbcdn.net/o1/v/t2/f2/m69/AQOB-LLF4XQiMR-uVNV3Y1cHD-jmimRkPZdcOK_TS7q5Ak3A6kcQPUSZbJChlh9m-i9RsEEE47MTJFuUJF2yRb9d.mp4?strext=1&_nc_cat=111&_nc_oc=AdkgjW44jYKbb-6TaCJ_d7n34vCJnNv9flu84Vk8Bfwr9LD51MH4dL5WQ5nXJBznOzk&_nc_sid=5e9851&_nc_ht=video.fadb6-3.fna.fbcdn.net&_nc_ohc=wlNxScWmRSMQ7kNvwFb_DS0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo3MjE2Nzk2NjcwOTAwNjUsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjo3NDk2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=8f41d44d42f3e2e1&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSUNXbUFEWWo5OVp4dGtFQUdHWHotdzJxdW9JYm1kakFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRGtXNFIybFI4MndJY3NDQUx6QzJCWm9veDRBYnJGcUFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmosqWw6SXyAIVAigCQzMsF0C9SBQ5WBBiGBlkYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwEQB1AmWUngEA&_nc_zt=28&oh=00_AfKW_1oY7rxIGGVszzScbc8R-MY1OsPgGFsj9un93tvexQ&oe=6842D38F
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV DİZİLERİ",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
+# ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDNjMDNiMTMtZmU5MC00ZTZlLTg3M2MtM2IwMDdkNWMxNDE2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg" group-title="FİLM",Lost in the Jungle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
+https://s230.rapidrame.com/hls2/01/00023/dr26mll319q6_,l,n,.urlset/index-f1-v1-a1.m3u8?t=o1Xi0fko1l67j-xO9jMn7FfQ5Kf30nPISPU8w4sBlD8&s=1758044337&e=86400&f=119658&srv=s430&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZThhMWQ3M2EtYzI1OC00NGRmLTgwNWUtODNiZTBlMTcxYWM4XkEyXkFqcGc@._V1_FMjpg_UX900_.jpg" group-title="FİLM",Yerdeki Süper Yıldızlar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
+https://s231.rapidrame.com/hls2/01/00023/3m5oqs4vggek_,l,n,.urlset/index-f1-v1-a1.m3u8?t=nZFgcNpnjEt2f4n5iuq_AVxKKQsTJ8i9xG6GL4GPQ2Q&s=1758055431&e=86400&f=119655&srv=s430&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.la/images/list/poster/until-dawn@2x.webp" group-title="FİLM",Şafağa Kadar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
+https://s230.rapidrame.com/hls2/01/00023/epbdogkqb6i9_,l,n,.urlset/index-f1-v1-a1.m3u8?t=-WiTBxhJbjIlAQmhdgGHaLReGdxHsLTw5mm_3rbzvAI&s=1757711380&e=86400&f=119492&srv=s430&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTMzOTcwNzQtYWVlZi00YmUyLWI5ODAtNzRhMmJlNzQwMjM0XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg" group-title="FİLM",Opus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
+https://s230.rapidrame.com/hls2/01/00023/kpve9iwz7rl5_,l,n,.urlset/index-f1-v1-a1.m3u8?t=BUTZNeAZabVf4E9TzV5NKAeyXziuMvkLmWB3b1soJfE&s=1757763642&e=86400&f=119502&srv=s430&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/502515/poster/watch-lg/ucaklar-trenler-ve-arabalar.webp" group-title="FİLM",Uçaklar, Trenler ve Arabalar
+https://vs12.photour.org/v/Planes,Trains.Automobiles.1987.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.la/images/list/poster/highest-2-lowest@2x.webp" group-title="FİLM",Highest 2 Lowest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.com/
+https://s230.rapidrame.com/hls2/01/00023/jzifidqv8m9v_,l,n,.urlset/index-f1-v1-a1.m3u8?t=EMyC2o-iYtLpl2jQjWLTMgmwFum1YgveZkwblzHz5lU&s=1757349060&e=86400&f=119280&srv=s430&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/hHPovtU4b96LHcoeEwRkGHI5btw.jpg" group-title="FİLM",Black Bag
+https://vs9.photoflax.org/v/Ghostlight.2024.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8
+
+#EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/hh3VrdirGNPnoHquOn2EAX9KB9k.jpg" group-title="FİLM",Dayı 2
+https://zm2n.uk-traffic-076.com/hls2/01/00027/reuce1ft5768_n/index-v1-a1.m3u8?t=RiC2MYC6V3tg7ZEcc0hBhY67cx5_Vqe955m8YN0DvGY&s=1756730615&e=43200&f=137974&srv=x1&i=0.0&sp=5000&fr=reuce1ft5768&p1=zm2n&p2=zm2n
+
+#EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/lGaVDZ6kLPqxypkio1fREN3z3Li.jpg" group-title="FİLM",Metruk Adam
+https://hls2-cdn21.streamupcdn.xyz/hls/wTagwb1yNGVVtJv3eE4K0C4RTq0n2c/index_1152x480.m3u8?token=525e1e694fb0f1c7c571c922c9f4255a-1756947931-195.142.36.233-d03c20d4b83e2f93e4d364ef780b993c886a61260345791ec68939916bc2f5ca
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.la/images/list/poster/y2k@2x.webp" group-title="FİLM",Film 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00023/nrnqjtu168zo_,l,n,.urlset/index-f1-v1-a1.m3u8?t=kyRo6vH8IZ83bJdfqEmx6vH-tduHovLxJ8lphv8ysQ8&s=1757194354&e=86400&f=119286&srv=s433&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="FİLM",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
+
+# ♦♦♦♦♦ MAÇ YAYINLARI ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1402.xyz/
+https://five.4928d54d950ee70q45.lat/yayinex7.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1402.xyz/
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_720p.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1402.xyz/
+https://five.4928d54d950ee70q45.lat/yayinex1.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1402.xyz/
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_720p.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/trt1.png" group-title="MAÇ YAYINLARI",TRT 1
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6jo8gz6q2uaz&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/htspor.png" group-title="MAÇ YAYINLARI",HT SPOR
+https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7oi72z5896zo&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1374.xyz/
+https://seven.4928d54d950ee70q27.lat/yayinss.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tv8.png" group-title="MAÇ YAYINLARI",TV8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7h5p4giwgbs0&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tivibuspor.png" group-title="MAÇ YAYINLARI",Tivibu Spor 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
+https://l0.4928d54d950ee70q32.click/yayint1.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beinsports.png" group-title="MAÇ YAYINLARI",Bein Sports Haber
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://macizlevip522.shop/
+https://a.strmrdr-cf-worker-1778a832bb.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5061/a.strmrdr-cf-worker-1778a832bb.workers.dev/chunklist_hd.m3u8?verify=1748202821354~176.42.36.18~d2a12731bddf8fc9564d562cb796dd09
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beinsports.png" group-title="MAÇ YAYINLARI",Bein Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1338.xyz/
+https://g0.4928d54d950ee70q7.lat/yayin1.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beinsports.png" group-title="MAÇ YAYINLARI",Bein Sports 1 Yedek
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://macizlevip301.shop/
+https://a.strmrdr-cf-worker-07897c0fd4.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5062/a.strmrdr-cf-worker-07897c0fd4.workers.dev/chunklist_hd.m3u8?verify=1748710169634~176.42.36.18~84d7e1d0af7a3f074d46ffad13933e44
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beinsports.png" group-title="MAÇ YAYINLARI",Bein Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1338.xyz/
+https://h0.4928d54d950ee70q8.lat/yayinb3.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/exxen.png" group-title="MAÇ YAYINLARI",EXXEN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1364.xyz/
+https://two.4928d54d950ee70q22.lat/yayin1.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/exxen.png" group-title="MAÇ YAYINLARI",EXXEN 2
+https://a.strmrdr-cf-worker-0488f25c70.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5161/a.strmrdr-cf-worker-0488f25c70.workers.dev/chunklist_hd.m3u8?verify=1755033864815~176.42.37.175~131cb55e694f60dad9a8c8b71a4e4903
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/exxen.png" group-title="MAÇ YAYINLARI",EXXEN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
+https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinex3.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/exxen.png" group-title="MAÇ YAYINLARI",EXXEN 4
+https://steep-silence-b428.simitcigazozcuknk.workers.dev/https://fener2.demoscript.buzz/hls/eu1.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1353.xyz/
+https://r0.4928d54d950ee70q17.lat/yayinex2.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz/
+https://f0.4928d54d950ee70q6.lat/yayinss2.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1353.xyz/
+https://r0.4928d54d950ee70q17.lat/yayinex2.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT PLUS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1353.xyz/
+https://yhnbv.cfd/cdn/s_sports_plus/main.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT PLUS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1353.xyz/
+https://r0.4928d54d950ee70q17.lat/yayinex1.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT PLUS 4
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/1D8KstW2qT1CrZrkMOsUIsa9O9CImUJM1ZmGjNusxOOLoPNwtJvSg8O5sbKNcCCEMSTaGBbb0OB1n9oqTP3p0w/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 1
+https://covannis.top/topsportlivegt/cdn/4021991/main.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 2
+https://covannis.top/topsportlivegt/cdn/4021991/main.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 3
+https://jhvggr.site/daddyhd/cdn/591/main.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 4
+https://gagas.site/cdn/tabi_spor_hd/main.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 5
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/XkbMAnj9IXOtzPi_Nk0Eftibt-sJk_FWFdTR-Gxaxs1-GuoRmHlkHOyl-IMqLWOmaDwMsXLSZDgP4e534nWlpw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="MAÇ YAYINLARI",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
+# ♦♦♦♦♦ BEHZAT Ç ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://images.justwatch.com/poster/330560231/s332/" group-title="BEHZAT Ç",6.Bölüm
+https://hls1-cdn37.cloudlionscdn.com/hls/ZCEZJATLiKwso92ssagYCbv9MJcZrI/index_1440x720.m3u8
+
+#EXTINF:0 tvg-logo="https://images.justwatch.com/poster/330560231/s332/" group-title="BEHZAT Ç",7.Bölüm
+
+
+#EXTINF:0 tvg-logo="https://images.justwatch.com/poster/330560231/s332/" group-title="BEHZAT Ç",8.Bölüm
+
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="BEHZAT Ç",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
+# ♦♦♦♦♦ END ♦♦♦♦♦
+
+
+
+
