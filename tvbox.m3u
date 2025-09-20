@@ -216,6 +216,35 @@ https://dt-vod-beinsports.akamaized.net/2/62/638d/ligtvcomtr_tauri_ozt_20252026_
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="BEHZAT Ç",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
+# ♦♦♦♦♦ Mavi Dolunay Otel ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/dj8A4dX6oC7DFD2RWLqvMLMPVQ3.jpg" group-title="Mavi Dolunay Otel",1.Bölüm
+https://z01k.uk-traffic-076.com/hls2/02/00027/b0ntwmnpu9hv_n/index-v1-a1.m3u8?t=WQ9M75B_Nus0d4t-_Yq1rwFhFIyX9QMuFx9zMPqjuTQ&s=1758373244&e=43200&f=138042&srv=x1&i=0.0&sp=5000&fr=b0ntwmnpu9hv&p1=z01k&p2=z01k
+
+#EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/dj8A4dX6oC7DFD2RWLqvMLMPVQ3.jpg" group-title="Mavi Dolunay Otel",2.Bölüm
+https://h2m1.uk-traffic-076.com/hls2/01/00027/pikn33ssci5x_n/index-v1-a1.m3u8?t=Ibg1DcLceF1iCy4cyHZdhkioKfEZgPvcDePQ8aHRfI0&s=1758374046&e=43200&f=138043&srv=x2&i=0.0&sp=5000&fr=pikn33ssci5x&p1=h2m1&p2=h2m1
+
+#EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/dj8A4dX6oC7DFD2RWLqvMLMPVQ3.jpg" group-title="Mavi Dolunay Otel",3.Bölüm
+https://a1q2.uk-traffic-076.com/hls2/02/00027/2s26rrp91rwj_n/index-v1-a1.m3u8?t=RUSPC40CToqxdb2PcWzonMvyUG8Hvzsu9dOXC8FlgkA&s=1758374060&e=43200&f=138044&srv=x1&i=0.0&sp=5000&fr=2s26rrp91rwj&p1=a1q2&p2=a1q2
+
+#EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/dj8A4dX6oC7DFD2RWLqvMLMPVQ3.jpg" group-title="Mavi Dolunay Otel",4.Bölüm
+https://birmingham.eu-traffic-05.com/hls2/01/00027/qbbmw2mizxlf_n/index-v1-a1.m3u8?t=daCbaRZsRSE5W1ak5Spiqr05s8jm-cxsyFPqJR3elxc&s=1758374085&e=43200&f=138046&srv=x2&i=0.0&sp=5000&fr=qbbmw2mizxlf&p1=birmingham&p2=birmingham
+
+#EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/dj8A4dX6oC7DFD2RWLqvMLMPVQ3.jpg" group-title="Mavi Dolunay Otel",5.Bölüm
+https://manchester.eu-traffic-05.com/hls2/02/00027/v9idpvv2i3ko_n/index-v1-a1.m3u8?t=rUGeiAWPdwIClYCRFpSxPoTCmeArPK80ewWWvy_1ffc&s=1758374102&e=43200&f=138045&srv=x1&i=0.0&sp=5000&fr=v9idpvv2i3ko&p1=manchester&p2=manchester
+
+#EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/dj8A4dX6oC7DFD2RWLqvMLMPVQ3.jpg" group-title="Mavi Dolunay Otel",6.Bölüm
+https://manchester.eu-traffic-05.com/hls2/01/00027/nfzunae33tgl_n/index-v1-a1.m3u8?t=AkAW_g-VkR887Mq59WmcET8F4N5RxjzHXP1IKjQz8eI&s=1758377396&e=43200&f=138048&srv=x2&i=0.0&sp=5000&fr=nfzunae33tgl&p1=manchester&p2=manchester
+
+#EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/dj8A4dX6oC7DFD2RWLqvMLMPVQ3.jpg" group-title="Mavi Dolunay Otel",7.Bölüm
+https://lublin.eu-traffic-05.com/hls2/02/00027/8ygln20ormg3_n/index-v1-a1.m3u8?t=Qev3sjkk1a-QJIJV0CFBA-EyJw6Z0Fo8WcvfyedLS_4&s=1758377411&e=43200&f=138047&srv=x1&i=0.0&sp=5000&fr=8ygln20ormg3&p1=lublin&p2=lublin
+
+#EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/dj8A4dX6oC7DFD2RWLqvMLMPVQ3.jpg" group-title="Mavi Dolunay Otel",8.Bölüm
+https://warsaw.eu-traffic-05.com/hls2/01/00027/7hrxsdj7x2xc_n/index-v1-a1.m3u8?t=mp61xgOIegeckW49CLHJohUJA6cW6glBsUmnMxiwCSE&s=1758377436&e=43200&f=138049&srv=x2&i=0.0&sp=5000&fr=7hrxsdj7x2xc&p1=warsaw&p2=warsaw
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Mavi Dolunay Otel",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
+
 # ♦♦♦♦♦ END ♦♦♦♦♦
 
 
