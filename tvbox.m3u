@@ -20,6 +20,16 @@ https://video.fadb6-3.fna.fbcdn.net/o1/v/t2/f2/m69/AQOB-LLF4XQiMR-uVNV3Y1cHD-jmi
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+#EXTINF:0 tvg-logo="ftp://192.168.1.27:3721/weburl/images/abright.png" group-title="FİLM",Dolphins Up Close with Bertie Gregory
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
+https://s231.rapidrame.com/hls2/01/00023/nmmjg3bankkl_,l,n,.urlset/index-f1-v1-a1.m3u8?t=EGis-bnjN7cJGRhnjKa7nJuT3wm5PF69pdU_-efck2s&s=1758373062&e=86400&f=119861&srv=s430&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:0 tvg-logo="ftp://192.168.1.27:3721/weburl/images/abright.png" group-title="FİLM",A Bright Lawyer
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
+https://s230.rapidrame.com/hls2/01/00023/vag2yh4xid95_,l,n,.urlset/master.m3u8?t=PVuK-PYQ_h2cMIyeEPpwdyT5Wdyu0QoxaHfX5ZEGvx8&s=1758314880&e=86400&f=119807&srv=s430&i=0.0&sp=0&p1=s230&p2=s230
+
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.la/images/list/poster/superman@2x.webp" group-title="FİLM",Superman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
