@@ -218,6 +218,33 @@ https://vidlax.xyz/upload/92a86bd2db4a6e572c8896e35933dff79020/master.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="BEHZAT Ç",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
+# ♦♦♦♦♦ Karşılaşmalar ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/Ascg3JHKijCTqHraSkWEdGF1ixR.jpg" group-title="Karşılaşmalar",1.Bölüm
+https://exeter.eu-traffic-05.com/hls2/02/00025/qvz4c6xwdlii_n/index-v1-a1.m3u8?t=hYEKNzqQYkqf8MOIXCgFldkfUvz6Lsq2vH9ccIQ-uWM&s=1758644456&e=43200&f=125608&srv=x1&i=0.0&sp=5000&p1=exeter&p2=exeter
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/Ascg3JHKijCTqHraSkWEdGF1ixR.jpg" group-title="Karşılaşmalar",2.Bölüm
+https://bordeaux.eu-traffic-05.com/hls2/02/00025/r12r75aq4xb9_n/index-v1-a1.m3u8?t=0hPUCW3_-J9jqoIk42QoKomStavielhi0B2L3xugxU0&s=1758644468&e=43200&f=125625&srv=x2&i=0.0&sp=5000&p1=bordeaux&p2=bordeaux
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/Ascg3JHKijCTqHraSkWEdGF1ixR.jpg" group-title="Karşılaşmalar",3.Bölüm
+https://paris.eu-traffic-05.com/hls2/02/00025/ralo094noh8n_n/index-v1-a1.m3u8?t=j7Ww8ilT5WMHGaa5muvqL9PkQBs3_lSfru85Bz7lYZI&s=1758644482&e=43200&f=125644&srv=x1&i=0.0&sp=5000&p1=paris&p2=paris
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/Ascg3JHKijCTqHraSkWEdGF1ixR.jpg" group-title="Karşılaşmalar",4.Bölüm
+https://xn2m.uk-traffic-076.com/hls2/02/00025/2fonnj7qnsxh_n/index-v1-a1.m3u8?t=JSZSx0rHhKzoVRSdtjR94mmH3Z21IhCefz8lWafINI4&s=1758644496&e=43200&f=125679&srv=x1&i=0.0&sp=5000&fr=2fonnj7qnsxh&p1=xn2m&p2=xn2m
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/Ascg3JHKijCTqHraSkWEdGF1ixR.jpg" group-title="Karşılaşmalar",5.Bölüm
+https://szczecin.eu-traffic-05.com/hls2/01/00025/5pstjc2gdquv_n/index-v1-a1.m3u8?t=zEc8Y-5xU3_FyVRt0_67aichPkzrZ-MeqQ_DKuLj5Pw&s=1758644517&e=43200&f=125697&srv=x1&i=0.0&sp=5000&fr=5pstjc2gdquv&p1=szczecin&p2=szczecin
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/Ascg3JHKijCTqHraSkWEdGF1ixR.jpg" group-title="Karşılaşmalar",6.Bölüm
+https://hd1d.uk-traffic-076.com/hls2/01/00025/re584yrn7xza_n/index-v1-a1.m3u8?t=w8zz3a8Xou5AGOiGbdUHFoLUFXilhb0G2qSLQ1CBycc&s=1758644535&e=43200&f=125741&srv=x2&i=0.0&sp=5000&fr=re584yrn7xza&p1=hd1d&p2=hd1d
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/Ascg3JHKijCTqHraSkWEdGF1ixR.jpg" group-title="Karşılaşmalar",7.Bölüm
+https://hd1d.uk-traffic-076.com/hls2/01/00025/ct0ycdmsrei8_n/index-v1-a1.m3u8?t=ykbFFHABhkOITmDYf7vl-3f8S0MEP8A6IeKY_H9FeaI&s=1758644546&e=43200&f=125740&srv=x1&i=0.0&sp=5000&fr=ct0ycdmsrei8&p1=hd1d&p2=hd1d
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Karşılaşmalar",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
+
+
 # ♦♦♦♦♦ END ♦♦♦♦♦
 
 
