@@ -21,7 +21,9 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://dizipall10.com/uploads/movies/original/ayakci-6772.webp" group-title="FİLM",Ayakçı
-https://hls1-cdn37.cloudlionscdn.com/hls/k5dB4kUNmZc5dWTE7ttX3x9OlSdJI0/index_1280x720.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
+https://s231.rapidrame.com/hls2/01/00023/kwr8hzezqp31_,l,n,.urlset/index-f1-v1-a1.m3u8?t=wLI4i1uKQzblhhluq8P9snQVCIwLfMZs_NS9w4wFtdo&s=1758643830&e=86400&f=119387&srv=s427&i=0.0&sp=0&p1=s231&p2=s231
 
 #EXTINF:0 tvg-logo="ftp://192.168.1.27:3721/weburl/images/abright.png" group-title="FİLM",Dolphins Up Close with Bertie Gregory
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
