@@ -33,9 +33,13 @@ https://s230.rapidrame.com/hls2/01/00024/gb19nulyfehb_,l,n,.urlset/index-f1-v1-a
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
 https://s231.rapidrame.com/hls2/01/00024/admrpqcfrznv_,l,n,.urlset/index-f1-v1-a1.m3u8?t=VCGh3uYI44vdsMwgmR1Y-tL5wjQhofBFeDCMeCrskQU&s=1759759045&e=86400&f=120217&srv=s433&i=0.0&sp=0&p1=s231&p2=s231
 
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/media/G2l6pfGWIAA_mUE?format=jpg&name=small" group-title="FİLM",Splitsville
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
+https://s433.rapidrame.com/hls2/01/00024/whizxrc1lwv0_,l,n,.urlset/index-f1-v1-a1.m3u8?t=XCC0h6Ykgrurcp2jIuGWlShdj5TeVKuGCnEj1aVC-nE&s=1759769958&e=86400&f=120218&i=0.0&sp=0
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="FİLM",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
-
 
 # ♦♦♦♦♦ MAÇ YAYINLARI ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor
