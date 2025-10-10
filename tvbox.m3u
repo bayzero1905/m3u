@@ -151,7 +151,7 @@ https://r0.4928d54d950ee70q17.lat/yayinex1.m3u8
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/1D8KstW2qT1CrZrkMOsUIsa9O9CImUJM1ZmGjNusxOOLoPNwtJvSg8O5sbKNcCCEMSTaGBbb0OB1n9oqTP3p0w/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 1
-https://covannis.top/topsportlivegt/cdn/4021991/main.m3u8
+https://edge10.xmediaget.com/hls-live/17407081/1/mediaplaylist.m3u8?s=10f281c8bba71925aa35bebd714ee838e90a88d86fe5ceeb2efb7acf7488dc17&t=1760112944366&ai=5000&av=1&ui=0
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 2
 https://covannis.top/topsportlivegt/cdn/4021991/main.m3u8
