@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/G2jxiCpWUAAgkwg?format=jpg&name=small" group-title="FİLM",C Takımı 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
-https://s230.rapidrame.com/hls2/01/00024/gb19nulyfehb_,l,n,.urlset/index-f1-v1-a1.m3u8?t=3c-twzvD9fW2nD7b2GhnhQ0GsZA47NYN-gP53ttGUgw&s=1759853536&e=86400&f=120201&srv=s430&i=0.0&sp=0&p1=s230&p2=s230
+https://video.twimg.com/amplify_video/1976754765993295872/pl/avc1/1080x1080/9ODA2zoPXga_glMF.m3u8
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/G2lQRyQX0AA6QRN?format=jpg&name=small" group-title="FİLM",Beni Bana Anlat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
