@@ -20,20 +20,15 @@ https://video.fadb6-3.fna.fbcdn.net/o1/v/t2/f2/m69/AQOB-LLF4XQiMR-uVNV3Y1cHD-jmi
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/media/G2jxiCpWUAAgkwg?format=jpg&name=small" group-title="FİLM",C Takımı 2
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/media/G2q6vnmXMAMtL-A?format=jpg&name=small" group-title="FİLM",Behind the Haystacks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
-https://video.twimg.com/amplify_video/1976754765993295872/pl/avc1/1080x1080/9ODA2zoPXga_glMF.m3u8
+https://s433.rapidrame.com/hls2/01/00024/kgc5bjp0jwra_,l,n,.urlset/index-f1-v1-a1.m3u8?t=8LsqaCp7Udl5P5C_zzGX3C1o7dB91fP_6iSGIkp55L4&s=1760376511&e=86400&f=120244&i=0.0&sp=0
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/G2lQRyQX0AA6QRN?format=jpg&name=small" group-title="FİLM",Beni Bana Anlat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
-https://s231.rapidrame.com/hls2/01/00024/admrpqcfrznv_,l,n,.urlset/index-f1-v1-a1.m3u8?t=czxsXgPtXYKq6LbmICj8D-p8KI2yILMqzv4uLiwM8lk&s=1759853582&e=86400&f=120217&srv=s433&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/media/G2q6vnmXMAMtL-A?format=jpg&name=small" group-title="FİLM",Behind the Haystacks
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
-https://s433.rapidrame.com/hls2/01/00024/kgc5bjp0jwra_,l,n,.urlset/index-f1-v1-a1.m3u8?t=riW14jxDDAhl7TRkhqega4raK_mvzUhiJzu5_h7aYvo&s=1759853818&e=86400&f=120244&i=0.0&sp=0
+https://s433.rapidrame.com/hls2/01/00024/admrpqcfrznv_,l,n,.urlset/index-f1-v1-a1.m3u8?t=EZx9OCKlqveqY3YPeV_DfEG7RspnaO0mItPbZEXO8ss&s=1760376603&e=86400&f=120217&i=0.0&sp=0
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="FİLM",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
