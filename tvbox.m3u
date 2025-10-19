@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/G3goB5fWsAAUICp?format=jpg&name=small" group-title="FİLM",Sıcak Büfe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
-https://s231.rapidrame.com/hls2/01/00024/n4via3wr65xv_,l,n,.urlset/index-f1-v1-a1.m3u8?t=b5aYgMiMc1c4Exg5ZYd9mvHa4KqUjeHj4EhxMd6mo7Y&s=1760754797&e=86400&f=120569&srv=s430&i=0.0&sp=0&p1=s231&p2=s231
+https://s231.rapidrame.com/hls2/01/00024/n4via3wr65xv_,l,n,.urlset/index-f1-v1-a1.m3u8?t=adQWw3rR0M6ZO92-r-zdqkePj5xO_k3_YfElWrN37FQ&s=1760883241&e=86400&f=120569&srv=s430&i=0.0&sp=0&p1=s231&p2=s231
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/G2lQRyQX0AA6QRN?format=jpg&name=small" group-title="FİLM",Bana Beni Anlat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -187,6 +187,22 @@ https://o23m.uk-traffic-076.com/hls2/01/00027/7dtn6baf3tja_n/index-v1-a1.m3u8?t=
 https://szczecin.eu-traffic-05.com/hls2/02/00027/ygmwyecf0mej_n/index-v1-a1.m3u8?t=y1aKJjBYMF4dGBK_b33GcuK3FsSEGYFfCLT1i2js598&s=1760286915&e=43200&f=138069&srv=x2&i=0.0&sp=5000&fr=ygmwyecf0mej&p1=szczecin&p2=szczecin
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Karşılaşmalar",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
+
+# ♦♦♦♦♦ Kaosun Anatomisi ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/5MTzX3ajVc7QCu8Dp2g3z9SiU3j.jpg" group-title="Kaosun Anatomisi",1.Bölüm
+https://nice.eu-traffic-05.com/hls2/01/00027/iw06qym4tdq5_n/index-v1-a1.m3u8?t=x_9qUdFp1DD1wmnd0_xaUKddDb1M669B1P6kr2oaKwE&s=1760883137&e=43200&f=138059&srv=x2&i=0.0&sp=5000&fr=iw06qym4tdq5&p1=nice&p2=nice
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/5MTzX3ajVc7QCu8Dp2g3z9SiU3j.jpg" group-title="Kaosun Anatomisi",2.Bölüm
+https://manchester.eu-traffic-05.com/hls2/01/00027/cnfda8xv8st8_n/index-v1-a1.m3u8?t=_pV19593z2anBh6xKXixG0QQv1qZJiGVAv46NNmcMMQ&s=1760883153&e=43200&f=138065&srv=x2&i=0.0&sp=5000&fr=cnfda8xv8st8&p1=manchester&p2=manchester
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/5MTzX3ajVc7QCu8Dp2g3z9SiU3j.jpg" group-title="Kaosun Anatomisi",3.Bölüm
+https://bordeaux.eu-traffic-05.com/hls2/01/00027/br97dxkh3mzh_n/index-v1-a1.m3u8?t=V0PrpFE0yh_sTgfq7lAhOB2m4GDjcdmhWElp1Ep3Vxk&s=1760883182&e=43200&f=138081&srv=x1&i=0.0&sp=5000&fr=br97dxkh3mzh&p1=bordeaux&p2=bordeaux
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/5MTzX3ajVc7QCu8Dp2g3z9SiU3j.jpg" group-title="Kaosun Anatomisi",4.Bölüm
+https://bristol.eu-traffic-05.com/hls2/02/00027/28n36zhlwg7v_n/index-v1-a1.m3u8?t=c7-DzEpErg2R2kwejg_wZAnT6PDp-jVonziYHzFmB_g&s=1760883202&e=43200&f=138083&srv=x1&i=0.0&sp=5000&fr=28n36zhlwg7v&p1=bristol&p2=bristol
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Kaosun Anatomisi",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 
