@@ -200,6 +200,22 @@ https://bristol.eu-traffic-05.com/hls2/02/00027/28n36zhlwg7v_n/index-v1-a1.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Kaosun Anatomisi",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
+# ♦♦♦♦♦ Kaosun Anatomisi Yedek ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/5MTzX3ajVc7QCu8Dp2g3z9SiU3j.jpg" group-title="Kaosun Anatomisi Yedek",1.Bölüm
+https://hls1-cdn53.strmupcdn.cc/hls/MusapO1GBrZXyuNGztubYvwJ2MX3DH/index_960x480.m3u8?token=4bbc38027b1b90df42489bf09883e8ad-1760929854-92.44.199.234-29779ecb4e3fefb1ca8ba2db76c9c785e2fe1a5da1e6b567c53f431317b61245
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/5MTzX3ajVc7QCu8Dp2g3z9SiU3j.jpg" group-title="Kaosun Anatomisi Yedek",2.Bölüm
+https://hls1-cdn53.strmupcdn.cc/hls/EzrMCVvIajwCnZ9UZWAijsl5m5W3J8/index_960x480.m3u8?token=1d28968058aee7ef84b5d9a601c80fb6-1760929975-92.44.199.234-6e102fafdef3fbf5b96be9253192d7238312e98975d38bc02b314c9be101dfbd
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/5MTzX3ajVc7QCu8Dp2g3z9SiU3j.jpg" group-title="Kaosun Anatomisi Yedek",3.Bölüm
+https://hls2-cdn47.strmupcdn.cc/hls/iqbufnKopt8pZMW2y8B96TlFe8osUx/index_960x480.m3u8?token=ffd01ab972b8ba6794f3952e93ae6fc2-1760929995-92.44.199.234-ebaa4ca3cf38df0ebb07ca7996e8d3df00e2c396c79c42956aa8e8fec8e48d1a
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/5MTzX3ajVc7QCu8Dp2g3z9SiU3j.jpg" group-title="Kaosun Anatomisi Yedek",4.Bölüm
+https://hls3-cdn48.strmupcdn.cc/hls/59gGz8IUynTx6yGmMNkqJ4EUzqA2Lc/index_2160x1080.m3u8?token=dc71b92df7612af73bcf21031eacdc4a-1760930108-92.44.199.234-1de8811db7091329bf0676969a3736f7873fbd6bd59609f77bcb8db872992dee
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Kaosun Anatomisi Yedek",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
+
 
 
 # ♦♦♦♦♦ END ♦♦♦♦♦
