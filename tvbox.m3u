@@ -35,21 +35,22 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 # ♦♦♦♦♦ MAÇ YAYINLARI ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor
-https://a.strmrdr-cf-worker-c4f655cbdc.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/DmodYM9CdSNPUZyc2x7VWd/5071/a.strmrdr-cf-worker-c4f655cbdc.workers.dev/chunklist_hd.m3u8?verify=1759350445751~195.155.191.103~360f6426ce68069556b33b4343ba2476
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1433.xyz/
+https://nine.04bf112a615942b9.sbs/yayin1.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1420.xyz/
-https://three.04bf112a615942b3.sbs/yayinex7.m3u8
+https://a.strmrdr-cf-worker-455b3c556c.workers.dev/cefc8a875b06cc6da16ca7dd99157dee/DmodYM9CdSNPUZyc2x7VWd/5071/9c548074.123123123123123123123132.pages.dev/chunklist_hd.m3u8?verify=1761086890290~92.44.199.234~35d56109dd4a1b6a1b705e0e3062779a
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1402.xyz/
-https://five.4928d54d950ee70q45.lat/yayinex7.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1433.xyz/
+https://nine.04bf112a615942b9.sbs/yayinex2.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1402.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1433.xyz/
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_720p.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor 3
