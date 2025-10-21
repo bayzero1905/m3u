@@ -23,12 +23,12 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/G3goB5fWsAAUICp?format=jpg&name=small" group-title="FİLM",Sıcak Büfe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
-https://s231.rapidrame.com/hls2/01/00024/n4via3wr65xv_,l,n,.urlset/index-f1-v1-a1.m3u8?t=12w-oWUH1EAp-VbgLub2tJ_HABLMPjm9Z55otHPq5Xs&s=1760974487&e=86400&f=120569&srv=s430&i=0.0&sp=0&p1=s231&p2=s231
+https://s230.rapidrame.com/hls2/01/00024/n4via3wr65xv_,l,n,.urlset/index-f1-v1-a1.m3u8?t=D7NHb296trsJVlfaMVip1b3RbSipwOsnMKdzP9Bxek4&s=1761058125&e=86400&f=120569&srv=s430&i=0.0&sp=0&p1=s230&p2=s230
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/G3v-zLrXMAAQaXd?format=jpg&name=small" group-title="FİLM",Dehşet Bey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
-https://s433.rapidrame.com/hls2/01/00024/uvkd0adlajto_,l,n,.urlset/index-f1-v1-a1.m3u8?t=RrkohgbpKhfw55MctQh7W0GLRdyQUGX71RdGrl5ThiA&s=1761012527&e=86400&f=120617&i=0.0&sp=0
+https://s231.rapidrame.com/hls2/01/00024/uvkd0adlajto_,l,n,.urlset/index-f1-v1-a1.m3u8?t=9UPqOKx_iASf0-0jpMUDt1xRNjUqhSIUcp5-UR2Po7c&s=1761058056&e=86400&f=120617&srv=s433&i=0.0&sp=0&p1=s231&p2=s231
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="FİLM",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
