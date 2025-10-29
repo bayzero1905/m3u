@@ -23,12 +23,7 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTINF:0 tvg-logo="https://tr.web.img3.acsta.net/c_310_420/img/00/3f/003fa7635b7c48f7afa174e847ede57e.jpg" group-title="FİLM",Baldız
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
-https://s231.rapidrame.com/hls2/01/00024/w5bp52qf4nz5_,l,n,.urlset/index-f1-v1-a1.m3u8?t=K1AI2hv0nYTYbxafEff3QNSGrCtKKkGoq4FxVdHWIdk&s=1761666728&e=86400&f=121161&srv=s433&i=0.0&sp=0&p1=s231&p2=s231
-
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/media/G3goB5fWsAAUICp?format=jpg&name=small" group-title="FİLM",Sıcak Büfe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
-https://s230.rapidrame.com/hls2/01/00024/n4via3wr65xv_,l,n,.urlset/index-f1-v1-a1.m3u8?t=D7NHb296trsJVlfaMVip1b3RbSipwOsnMKdzP9Bxek4&s=1761058125&e=86400&f=120569&srv=s430&i=0.0&sp=0&p1=s230&p2=s230
+https://s230.rapidrame.com/hls2/01/00024/w5bp52qf4nz5_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Q4n2AL7AYHkQ-zk3Jx0UfNm-T0k0gEwinQZ8LnT5GN4&s=1761744640&e=86400&f=121161&srv=s433&i=0.0&sp=0&p1=s230&p2=s230
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="FİLM",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
@@ -176,39 +171,39 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 # ♦♦♦♦♦ Karşılaşmalar ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/Ascg3JHKijCTqHraSkWEdGF1ixR.jpg" group-title="Karşılaşmalar",5.Bölüm
-https://z01k.uk-traffic-076.com/hls2/02/00027/7ro00d66xbzx_n/index-v1-a1.m3u8?t=Tjhr_E01TMIqBnfJMNcztaH9Bg_HaoayCwcfJ9GPb7k&s=1761666363&e=43200&f=138084&srv=x1&i=0.0&sp=5000&fr=7ro00d66xbzx&p1=z01k&p2=z01k
+https://z01k.uk-traffic-076.com/hls2/02/00027/7ro00d66xbzx_n/index-v1-a1.m3u8?t=TNJpBsv6zVTqQ0fYWt1dRyLLipv5-aC6WuBQ6YxObzg&s=1761744522&e=43200&f=138084&srv=x1&i=0.0&sp=5000&fr=7ro00d66xbzx&p1=z01k&p2=z01k
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/Ascg3JHKijCTqHraSkWEdGF1ixR.jpg" group-title="Karşılaşmalar",6.Bölüm
-https://sn12.uk-traffic-076.com/hls2/01/00027/ra975l1thc0z_n/index-v1-a1.m3u8?t=C6K9DLq1oTCfGpO94gcedaiwHtmg75JogyhGh20McaU&s=1761666452&e=43200&f=138089&srv=x1&i=0.0&sp=5000&fr=ra975l1thc0z&p1=sn12&p2=sn12
+https://sn12.uk-traffic-076.com/hls2/01/00027/ra975l1thc0z_n/index-v1-a1.m3u8?t=85181UpWtfgFPWD4Zhrz66TppFk5y5J6hO2dsJx5_ts&s=1761744536&e=43200&f=138089&srv=x1&i=0.0&sp=5000&fr=ra975l1thc0z&p1=sn12&p2=sn12
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Karşılaşmalar",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ Kaosun Anatomisi ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/5MTzX3ajVc7QCu8Dp2g3z9SiU3j.jpg" group-title="Kaosun Anatomisi",5.Bölüm
-https://brighton.eu-traffic-05.com/hls2/01/00027/gjqrvka4vgy1_n/index-v1-a1.m3u8?t=AqRFaguIiDOlZcbLemm2zZ11DrnLfnkIMWZ4ksA3QZM&s=1761666287&e=43200&f=138100&srv=x2&i=0.0&sp=5000&fr=gjqrvka4vgy1&p1=brighton&p2=brighton
+https://brighton.eu-traffic-05.com/hls2/01/00027/gjqrvka4vgy1_n/index-v1-a1.m3u8?t=TxhyVeVMeFhFsFDk6aV6PMJKwgJuyEV_DqB9tA8D4Ss&s=1761744604&e=43200&f=138100&srv=x2&i=0.0&sp=5000&fr=gjqrvka4vgy1&p1=brighton&p2=brighton
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Kaosun Anatomisi",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ Persona ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://dizipall21.com/uploads/series/original/persona-9516.webp" group-title="Persona",5.Bölüm
-
+https://s2-hls1-cdn55.strmupcdn.cc/hls/td77CTsfPakC65qXL9jteNt6FfrjEq/index_1280x720.m3u8?token=38b77f274b9c6e3c13edc630dd57a978-1761773125-92.44.199.234-e5d4649210bceb7fc7e4d78096df6daf1eadf8a82113cc55ede3303a26b2d053
 
 #EXTINF:0 tvg-logo="https://dizipall21.com/uploads/series/original/persona-9516.webp" group-title="Persona",6.Bölüm
-
+https://s2-hls1-cdn55.strmupcdn.cc/hls/fN7v1FJbTvJEoqx447COz9ogneuXML/index_1280x720.m3u8?token=e55362c93543c61f76c4632e4e17866d-1761773151-92.44.199.234-06242f52cdd3923572b3d9c76b8c4c23afaa5de667f7d84991a1d8476b3b8763
 
 #EXTINF:0 tvg-logo="https://dizipall21.com/uploads/series/original/persona-9516.webp" group-title="Persona",7.Bölüm
-
+https://s2-hls1-cdn53.strmupcdn.cc/hls/9OiA6v2LAeS3fe4uTi0wwH728gthEH/index_1280x720.m3u8?token=8e1a95e7a05eb01c9b0082eca9f45c2d-1761773182-92.44.199.234-dcf9ab0acb4831615ca1000b43ab21bd5b6864c00330a90d9d8a9b5221fca1fc
 
 #EXTINF:0 tvg-logo="https://dizipall21.com/uploads/series/original/persona-9516.webp" group-title="Persona",8.Bölüm
-https://hls1-cdn52.strmupcdn.cc/hls/g8k4yPzGNa2MIhRvhdXzTChI8GbqV7/index_1280x720.m3u8?token=0fa0f7b0009c6b1d9faa21f04f81f597-1761764243-92.44.199.234-0e1b652720b582a77d5b7fb1c628a1592d22915c327d772113b93baab01cb80c
+https://hls1-cdn52.strmupcdn.cc/hls/g8k4yPzGNa2MIhRvhdXzTChI8GbqV7/index_1280x720.m3u8?token=30b9b593785dd69b8d6e23234c503f4b-1761773204-92.44.199.234-cbcc99976ef3bef1a26496f14b23e98b00a442de6910756ad429c606de7840e6
 
 #EXTINF:0 tvg-logo="https://dizipall21.com/uploads/series/original/persona-9516.webp" group-title="Persona",9.Bölüm
-https://hls1-cdn52.strmupcdn.cc/hls/dQ1m54aEOvDeCGVd1vFrwuri5JIKhB/index_1280x720.m3u8?token=f7df7e3d6ac00090b7d4cee5327a5efa-1761764269-92.44.199.234-05adefd14597ef415834230a9d8ed222585d619e82df69e2acd6d667039f61b5
+https://hls1-cdn52.strmupcdn.cc/hls/dQ1m54aEOvDeCGVd1vFrwuri5JIKhB/index_1280x720.m3u8?token=93feb7d2ada9074b5f4e89bda4f115b2-1761773223-92.44.199.234-09ecb930392654b3127ad57f5bec8af46738f01af750a995e236be9c7dd167bf
 
 #EXTINF:0 tvg-logo="https://dizipall21.com/uploads/series/original/persona-9516.webp" group-title="Persona",10.Bölüm
-https://hls1-cdn52.strmupcdn.cc/hls/jmtbok6H1ayib3MA7fqTnov3JGZo8k/index_1280x720.m3u8?token=7c554968e9a008038c09ab596be8ea09-1761764317-92.44.199.234-2cc53c9ed671d45f8b138b6f7e509dead2528e76f5a3c3de5ef00b81f90281d2
+https://hls1-cdn52.strmupcdn.cc/hls/jmtbok6H1ayib3MA7fqTnov3JGZo8k/index_1280x720.m3u8?token=b71a7a7909328969513891bf20625f0b-1761773265-92.44.199.234-bc1fcc9add4e53e75eff1aaeb3f8997fcffb622b3d86096898bc27245a0387b3
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Persona",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
