@@ -180,8 +180,13 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/5MTzX3ajVc7QCu8Dp2g3z9SiU3j.jpg" group-title="Kaosun Anatomisi",5.Bölüm
 https://brighton.eu-traffic-05.com/hls2/01/00027/gjqrvka4vgy1_n/index-v1-a1.m3u8?t=TxhyVeVMeFhFsFDk6aV6PMJKwgJuyEV_DqB9tA8D4Ss&s=1761744604&e=43200&f=138100&srv=x2&i=0.0&sp=5000&fr=gjqrvka4vgy1&p1=brighton&p2=brighton
 
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/5MTzX3ajVc7QCu8Dp2g3z9SiU3j.jpg" group-title="Kaosun Anatomisi",6.Bölüm
+https://an52.uk-traffic-076.com/hls2/02/00027/qd11e8k7vlh5_n/index-v1-a1.m3u8?t=KwnIwnfQOA0mFnmRVqh7bQ78yObpCkMpqnvwB5EujCE&s=1762047975&e=43200&f=138122&srv=x1&i=0.0&sp=5000&fr=qd11e8k7vlh5&p1=an52&p2=an52
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Kaosun Anatomisi",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
+
+
 
 # ♦♦♦♦♦ END ♦♦♦♦♦
 
