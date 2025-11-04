@@ -31,12 +31,12 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 # ♦♦♦♦♦ MAÇ YAYINLARI ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1449.xyz/
-https://ten.04bf112a615942b20.sbs/yayinb3.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1452.xyz/
+https://three.04bf112a615942b23.sbs/yayinex1.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://a.strmrdr-cf-worker-455b3c556c.workers.dev/cefc8a875b06cc6da16ca7dd99157dee/DmodYM9CdSNPUZyc2x7VWd/5071/9c548074.123123123123123123123132.pages.dev/chunklist_hd.m3u8?verify=1761086890290~92.44.199.234~35d56109dd4a1b6a1b705e0e3062779a
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -168,20 +168,23 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 # ♦♦♦♦♦ Karşılaşmalar ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/Ascg3JHKijCTqHraSkWEdGF1ixR.jpg" group-title="Karşılaşmalar",5.Bölüm
-https://z01k.uk-traffic-076.com/hls2/02/00027/7ro00d66xbzx_n/index-v1-a1.m3u8?t=TNJpBsv6zVTqQ0fYWt1dRyLLipv5-aC6WuBQ6YxObzg&s=1761744522&e=43200&f=138084&srv=x1&i=0.0&sp=5000&fr=7ro00d66xbzx&p1=z01k&p2=z01k
+
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/Ascg3JHKijCTqHraSkWEdGF1ixR.jpg" group-title="Karşılaşmalar",6.Bölüm
-https://sn12.uk-traffic-076.com/hls2/01/00027/ra975l1thc0z_n/index-v1-a1.m3u8?t=85181UpWtfgFPWD4Zhrz66TppFk5y5J6hO2dsJx5_ts&s=1761744536&e=43200&f=138089&srv=x1&i=0.0&sp=5000&fr=ra975l1thc0z&p1=sn12&p2=sn12
+
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/Ascg3JHKijCTqHraSkWEdGF1ixR.jpg" group-title="Karşılaşmalar",7.Bölüm
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Karşılaşmalar",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ Kaosun Anatomisi ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/5MTzX3ajVc7QCu8Dp2g3z9SiU3j.jpg" group-title="Kaosun Anatomisi",5.Bölüm
-https://brighton.eu-traffic-05.com/hls2/01/00027/gjqrvka4vgy1_n/index-v1-a1.m3u8?t=TxhyVeVMeFhFsFDk6aV6PMJKwgJuyEV_DqB9tA8D4Ss&s=1761744604&e=43200&f=138100&srv=x2&i=0.0&sp=5000&fr=gjqrvka4vgy1&p1=brighton&p2=brighton
+
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/5MTzX3ajVc7QCu8Dp2g3z9SiU3j.jpg" group-title="Kaosun Anatomisi",6.Bölüm
-https://an52.uk-traffic-076.com/hls2/02/00027/qd11e8k7vlh5_n/index-v1-a1.m3u8?t=KwnIwnfQOA0mFnmRVqh7bQ78yObpCkMpqnvwB5EujCE&s=1762047975&e=43200&f=138122&srv=x1&i=0.0&sp=5000&fr=qd11e8k7vlh5&p1=an52&p2=an52
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Kaosun Anatomisi",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
