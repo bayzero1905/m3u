@@ -1,8 +1,8 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/veliaht.webp" group-title="TV DİZİLERİ",Veliaht 8.Bölüm
-https://video.twimg.com/amplify_video/1984001087053955072/pl/mGi7fL5QtYM-X5LV.m3u8?tag=21
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/veliaht.webp" group-title="TV DİZİLERİ",Veliaht 9.Bölüm
+https://video.twimg.com/amplify_video/1986538875091582977/pl/R3StEHIoqK0lZEqZ.m3u8?tag=21
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kskanmak.webp" group-title="TV DİZİLERİ",Kıskanmak 8.Bölüm
 https://video.twimg.com/amplify_video/1985812748849086464/pl/-Il06RzrfPLYsPCi.m3u8?tag=21
@@ -13,8 +13,8 @@ https://video.twimg.com/amplify_video/1986174123156951040/pl/X0NlMhgwglvTZao-.m3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.webp" group-title="TV DİZİLERİ",İnci Taneleri 44.Bölüm
 https://video.twimg.com/amplify_video/1923118382347354112/pl/CnGIGSNAkZzwq3nI.m3u8?tag=21
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.webp" group-title="TV DİZİLERİ",Ç.G.Hareketler 206.Bölüm
-https://startv-p3.mncdn.com/smil:cgh_206_smil.smil/chunklist_b1628000.m3u8?st=vlt_vSOFls_uEt7MLOPmSw&e=1761948198
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.webp" group-title="TV DİZİLERİ",Ç.G.Hareketler 207.Bölüm
+https://startv-p3.mncdn.com/smil:cgh2_207_rev3_smil.smil/chunklist_b1628000.m3u8?st=5YZTrT3a3ns4wQmXf4ABcw&e=1762551561
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
