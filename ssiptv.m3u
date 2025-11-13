@@ -161,6 +161,9 @@ https://gagas.site/cdn/tabi_spor_hd/main.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 5
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/XkbMAnj9IXOtzPi_Nk0Eftibt-sJk_FWFdTR-Gxaxs1-GuoRmHlkHOyl-IMqLWOmaDwMsXLSZDgP4e534nWlpw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 6
+https://www.plus.fifa.com/en/player/3e17aeb8-cf9a-4d53-a952-cdd59fefba7f?catalogId=eb2fdd78-58d2-4531-82ec-e21884d20f8a&entryPoint=CTA
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="MAÇ YAYINLARI",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
