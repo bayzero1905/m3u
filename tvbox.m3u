@@ -151,19 +151,19 @@ https://r0.4928d54d950ee70q17.lat/yayinex1.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT PLUS 4
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/1D8KstW2qT1CrZrkMOsUIsa9O9CImUJM1ZmGjNusxOOLoPNwtJvSg8O5sbKNcCCEMSTaGBbb0OB1n9oqTP3p0w/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top2.webp" group-title="MAÇ YAYINLARI",YAYIN 1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top.webp" group-title="MAÇ YAYINLARI",YAYIN 1
 https://uhyhn.cfd/cdn/dke_jtvlive_5_hd/main.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top2.webp" group-title="MAÇ YAYINLARI",YAYIN 2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top.webp" group-title="MAÇ YAYINLARI",YAYIN 2
 https://video.twimg.com/amplify_video/1977448233266778112/pl/avc1/720x1280/5D-46w6KzoslqhSB.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top2.webp" group-title="MAÇ YAYINLARI",YAYIN 3
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top.webp" group-title="MAÇ YAYINLARI",YAYIN 3
 https://jhvggr.site/daddyhd/cdn/591/main.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top2.webp" group-title="MAÇ YAYINLARI",YAYIN 4
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top.webp" group-title="MAÇ YAYINLARI",YAYIN 4
 https://gagas.site/cdn/tabi_spor_hd/main.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top2.webp" group-title="MAÇ YAYINLARI",YAYIN 5
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top.webp" group-title="MAÇ YAYINLARI",YAYIN 5
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/XkbMAnj9IXOtzPi_Nk0Eftibt-sJk_FWFdTR-Gxaxs1-GuoRmHlkHOyl-IMqLWOmaDwMsXLSZDgP4e534nWlpw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="MAÇ YAYINLARI",END
