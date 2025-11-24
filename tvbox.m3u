@@ -211,6 +211,21 @@ https://s2-hls1-cdn55.strmupcdn.cc/hls/3wV10WXIcpKw3F4OPybcAIdVKmGXf0/index_1920
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Fer",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
+# ♦♦♦♦♦ Sekizinci Aile ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/2pi53UfC61zRYDU7BOlNoEG3myo.jpg" group-title="Sekizinci Aile",1.Bölüm
+https://sn12.uk-traffic-076.com/hls2/02/00027/qj9q7gcyddoc_n/index-v1-a1.m3u8?t=fJdsbBctayuXxwE42JnOj32dnMWFNtcri3Q2FUIn2RM&s=1763999888&e=43200&f=139882&srv=x2&i=0.0&sp=5000&fr=qj9q7gcyddoc&p1=sn12&p2=sn12
+
+#EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/2pi53UfC61zRYDU7BOlNoEG3myo.jpg" group-title="Sekizinci Aile",2.Bölüm
+https://dn2p.uk-traffic-076.com/hls2/02/00027/yggd89er3f15_n/index-v1-a1.m3u8?t=1TE3Du7Ifp-mqI3XHotk-PukFtf0xcPxBLRxgQ8x-bk&s=1763999901&e=43200&f=139881&srv=x2&i=0.0&sp=5000&fr=yggd89er3f15&p1=dn2p&p2=dn2p
+
+#EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/2pi53UfC61zRYDU7BOlNoEG3myo.jpg" group-title="Sekizinci Aile",3.Bölüm
+https://kde2.uk-traffic-076.com/hls2/02/00027/1oi4rtwwyuve_n/index-v1-a1.m3u8?t=on68QUEyE-U4rRWW1CfhyLq_oxGf2uLJ0ZoUpgkzWRU&s=1763999942&e=43200&f=139880&srv=x2&i=0.0&sp=5000&fr=1oi4rtwwyuve&p1=kde2&p2=kde2
+
+#EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/2pi53UfC61zRYDU7BOlNoEG3myo.jpg" group-title="Sekizinci Aile",4.Bölüm
+https://z01k.uk-traffic-076.com/hls2/02/00027/g2nvfgp8qy45_n/index-v1-a1.m3u8?t=YIqt5UoRfu9rrKQnh4P66JX_KZgoyzwTkDVq0_CojTo&s=1763999960&e=43200&f=139883&srv=x2&i=0.0&sp=5000&fr=g2nvfgp8qy45&p1=z01k&p2=z01k
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Sekizinci Aile",End
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 
 
