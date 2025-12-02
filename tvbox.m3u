@@ -20,20 +20,10 @@ https://startv-p3.mncdn.com/smil:cgh2_209_smil.smil/chunklist_b1628000.m3u8?st=Y
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.la/images/list/poster/beyond-the-hill@2x.webp" group-title="FİLM",Tepenin Ardı
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.la/images/list/poster/efendiler@2x.webp" group-title="FİLM",Efendiler
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
-https://s433.rapidrame.com/hls2/01/00024/nleb1gxcof24_,l,n,.urlset/index-f1-v1-a1.m3u8?t=qpT2DzSvVTWlKZPhJ0bemJMgUq1S9VoopgTd4QRuTvU&s=1763032296&e=86400&f=122671&i=0.0&sp=0
-
-#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.la/images/list/poster/hep-yek-loto@2x.webp" group-title="FİLM",Hep Yek Loto
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
-https://s230.rapidrame.com/hls2/01/00024/yky4mecdwdiv_,l,n,.urlset/index-f1-v1-a1.m3u8?t=oASjGWMkrEVTBH2FHLWYwIkfPmj3Aa778TY36qnQzhI&s=1762786815&e=86400&f=123324&srv=s433&i=0.0&sp=0&p1=s230&p2=s230
-
-#EXTINF:0 tvg-logo="https://tr.web.img3.acsta.net/c_310_420/img/00/3f/003fa7635b7c48f7afa174e847ede57e.jpg" group-title="FİLM",Baldız
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
-https://s230.rapidrame.com/hls2/01/00024/w5bp52qf4nz5_,l,n,.urlset/index-f1-v1-a1.m3u8?t=KGhvbtkR4h5yrWc1ylumcI7m8h24wZD5fnYeL7H0FZg&s=1762786888&e=86400&f=121161&srv=s433&i=0.0&sp=0&p1=s230&p2=s230
+https://s231.rapidrame.com/hls2/01/00025/ks3ljhrhwg8r_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Au83JmfAx0zOhZ8E6vXm_mLn4GP8pht-9wIxU-kHb1s&s=1764688184&e=86400&f=126546&srv=s438&i=0.0&sp=0&p1=s231&p2=s231
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="FİLM",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
