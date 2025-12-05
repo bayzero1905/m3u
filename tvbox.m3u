@@ -13,8 +13,8 @@ https://video.twimg.com/amplify_video/1996322470429667328/pl/jLeqTJbCWEZsXrQ4.m3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.webp" group-title="TV DİZİLERİ",İnci Taneleri 44.Bölüm
 https://video.twimg.com/amplify_video/1923118382347354112/pl/CnGIGSNAkZzwq3nI.m3u8?tag=21
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.webp" group-title="TV DİZİLERİ",Ç.G.Hareketler 209.Bölüm
-https://startv-p3.mncdn.com/smil:cgh2_209_smil.smil/chunklist_b1628000.m3u8?st=YtspLtL2nLFS4r9HVH6R7g&e=1764366743
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.webp" group-title="TV DİZİLERİ",Ç.G.Hareketler 210.Bölüm
+https://startv.akamaized.net/2025/12/210_bolum-3e73402d/media-2/hdntl=exp=1765030716~acl=%2f*~data=hdntl~hmac=1f2f19acaf7cef18f001e11fbe774154d787b2463d1cc4b803513076ede87196/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
