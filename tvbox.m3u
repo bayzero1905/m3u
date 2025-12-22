@@ -20,10 +20,11 @@ https://startv.akamaized.net/2025/12/210_bolum-3e73402d/media-2/hdntl=exp=176503
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.la/images/list/poster/efendiler@2x.webp" group-title="FİLM",Efendiler
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.ws/images/list/poster/ali-cevlik@2x.webp" group-title="FİLM",Ali Çevlik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
-https://s231.rapidrame.com/hls2/01/00025/ks3ljhrhwg8r_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Au83JmfAx0zOhZ8E6vXm_mLn4GP8pht-9wIxU-kHb1s&s=1764688184&e=86400&f=126546&srv=s438&i=0.0&sp=0&p1=s231&p2=s231
+https://s230.rapidrame.com/hls2/01/00025/seo5buk7lej7_,l,n,.urlset/index-f1-v1-a1.m3u8?t=y6IlrQb7ulCsff7CnywYnC3SoL9wo24NQQ345JjEm0Q&s=1766423759&e=86400&f=128246&srv=s430&i=0.0&sp=0&p1=s230&p2=s230
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="FİLM",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
