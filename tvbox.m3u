@@ -20,11 +20,15 @@ https://startv.akamaized.net/2025/12/210_bolum-3e73402d/media-2/hdntl=exp=176503
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.ws/images/list/poster/dogulu@2x.webp" group-title="FİLM",Doğulu
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.ws/images/list/poster/the-tiger@2x.webp" group-title="FİLM",The Tiger
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.la/
-https://s231.rapidrame.com/hls2/01/00025/lluxu3qpqlym_,l,n,.urlset/index-f1-v1-a1.m3u8?t=yPI8WrKErH-EPKH0QWjMpeVPbS0L8zg0BcA5Bzmv4Fw&s=1766601512&e=86400&f=128674&srv=s430&i=0.0&sp=0&p1=s231&p2=s231
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.ws/
+https://s230.rapidrame.com/hls2/01/00025/qxzerkvvjgv0_,l,n,.urlset/index-f2-v1-a1.m3u8?t=IxBCaUKQdjtPH0bJvOqKJt9WIDxzstEdtp8CqvxcShQ&s=1767458126&e=86400&f=129016&srv=s429&i=0.0&sp=0&p1=s230&p2=s230
 
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.ws/images/list/poster/cheetahs-up-close-with-bertie-gregory@2x.webp" group-title="FİLM",Cheetahs Up Close with Bertie Gregory
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.ws/
+https://s231.rapidrame.com/hls2/01/00025/3eff9wikzbj6_,l,n,.urlset/index-f2-v1-a1.m3u8?t=tOviBp1pN5Uefzqiptzj_-KI-cDo3uOiuO5loKzpvh0&s=1767458222&e=86400&f=129042&srv=s433&i=0.0&sp=0&p1=s231&p2=s231
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="FİLM",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
