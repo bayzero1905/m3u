@@ -247,22 +247,40 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ Gibi ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://dizipall38.com/uploads/series/original/gibi-9969.webp" group-title="Gibi",8.Bölüm
-https://s3-hls2-cdn59.strmupcdn.com/hls/BhVHmivYh0hl9BOt0RdLFQMyTaSywL/index_1920x1080.m3u8?token=8292be30c2602f44d42c667134ee388d-1767828991-92.44.195.3-f4d8c441c5bb422a3dce2446ad6eb3012e5cd58e28d370af67a0559341717401
-
 #EXTINF:0 tvg-logo="https://dizipall38.com/uploads/series/original/gibi-9969.webp" group-title="Gibi",9.Bölüm
-https://s3-hls2-cdn59.strmupcdn.com/hls/2ER01RNfM67HqHaw1jgBs7xyzHxeTj/index_1920x1080.m3u8?token=8d0447ea36055898619f7bc8ccee6346-1767829044-92.44.195.3-dac5e8788be7a839f267c46a40dfc19d087fc4dd9c8584c566759bb32aee70af
+https://s3-hls2-cdn59.strmupcdn.com/hls/2ER01RNfM67HqHaw1jgBs7xyzHxeTj/index_1920x1080.m3u8?token=bd5a7d73879e1488fc5ba82c9e52968a-1767915162-92.44.195.3-d6042814e9fc2b5f7e44ff23c053afa73d278e56a5e291c161092eb0467d6b46
 
 #EXTINF:0 tvg-logo="https://dizipall38.com/uploads/series/original/gibi-9969.webp" group-title="Gibi",10.Bölüm
-https://s3-hls2-cdn59.strmupcdn.com/hls/egzOdlIAIdAaNCT0PVl5yFwMQY24wH/index_1920x1080.m3u8?token=5a3988a4596880973ed8b6a8ae3a5563-1767829066-92.44.195.3-a8187697589dcbe587e3a789239b6c97af2d3db7e365346036bcab9763791b64
+https://s3-hls2-cdn59.strmupcdn.com/hls/egzOdlIAIdAaNCT0PVl5yFwMQY24wH/index_1920x1080.m3u8?token=c8de8a045dd0b83a4603e77470eef69d-1767915214-92.44.195.3-a0fafc69826e947598fb81c563dd138cbc1c1294d230f1a1ce522431b02552c3
 
 #EXTINF:0 tvg-logo="https://dizipall38.com/uploads/series/original/gibi-9969.webp" group-title="Gibi",11.Bölüm
-https://s3-hls3-cdn48.strmupcdn.cc/hls/GeV8VD1lHPzrBhstEXFF3wvN4nPuCg/index_1920x1080.m3u8?token=4a1c4610795defe3e39b6bbbaf1d1182-1767829092-92.44.195.3-c23fc316232ebe33f3daf9a42c5eba2554e0dd3fc86521f62707e3f9e5275d0b
+https://s3-hls3-cdn48.strmupcdn.cc/hls/GeV8VD1lHPzrBhstEXFF3wvN4nPuCg/index_1920x1080.m3u8?token=5758fb073ebb3d9c8c60af40052964a9-1767915242-92.44.195.3-a068b4d2e45cc0e9fa1cc91ab685a45bca09092fbc88e534063928439612f682
 
 #EXTINF:0 tvg-logo="https://dizipall38.com/uploads/series/original/gibi-9969.webp" group-title="Gibi",12.Bölüm
-
+https://s3-hls3-cdn48.strmupcdn.cc/hls/Rl17ju9obELsJw1btx4c7I5OUZ3BWk/index_1920x1080.m3u8?token=776f2f093909c1ada27e777f3039561a-1767915269-92.44.195.3-0509a843a6d6e1210fb9a788763108591c7ea415002474843d4ac26a1467ed05
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Gibi",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
+
+
+# ♦♦♦♦♦ Gibi 2 ♦♦♦♦♦
+
+#EXTINF:0 tvg-logo="https://dizipall38.com/uploads/series/original/gibi-9969.webp" group-title="Gibi 2",1.Bölüm
+https://s3-hls2-cdn59.strmupcdn.com/hls/vHrb8rpVKK7uBJBEv20iWOjDuBp2wt/index_1920x1080.m3u8?token=145b32bda403ea6a28ba03acfd0cd67c-1767914759-92.44.195.3-2b2e03f5ae221e8ecd2972153713b8aff9e58acdef84f70f988e6edc19122d78
+
+#EXTINF:0 tvg-logo="https://dizipall38.com/uploads/series/original/gibi-9969.webp" group-title="Gibi 2",2.Bölüm
+https://s3-hls2-cdn58.strmupcdn.com/hls/wSEfbMh0qwq9nmwWJbcblXFXsydA7H/index_1920x1080.m3u8?token=8a96d3f6880318f33de027139d5cfdc6-1767914809-92.44.195.3-578b2227349541389079530d0f8b27eec1db5a42ba5eff1ccf8c2cb03d62eb60
+
+#EXTINF:0 tvg-logo="https://dizipall38.com/uploads/series/original/gibi-9969.webp" group-title="Gibi 2",3.Bölüm
+https://s3-hls2-cdn58.strmupcdn.com/hls/JijLHYjSXmm94p5MjfHjkj2b6ZSdnU/index_1920x1080.m3u8?token=71ff571a40e71a19a4b2388f1ca4772e-1767914841-92.44.195.3-dc93363094b86932a8f445a10019c0fe43db4fe9fbdb0d06a27859964cb6e9d1
+
+#EXTINF:0 tvg-logo="https://dizipall38.com/uploads/series/original/gibi-9969.webp" group-title="Gibi 2",4.Bölüm
+https://s3-hls2-cdn58.strmupcdn.com/hls/w4YY4P2glgD2b5V4QR6QggaXsJVT81/index_1920x1080.m3u8?token=89f1d59c47cc24150f25b5d226f04bf7-1767914863-92.44.195.3-efa14ac73d3f57f8ffdcfe860496e08ae56355a380e01621fcd9e86c1d5eaf35
+
+#EXTINF:0 tvg-logo="https://dizipall38.com/uploads/series/original/gibi-9969.webp" group-title="Gibi 2",5.Bölüm
+https://s3-hls3-cdn48.strmupcdn.cc/hls/OWWnIGdug0nOVV4nOS37ZYZhMhPIMB/index_1920x1080.m3u8?token=5c12df2f7ac78b3df9cbc663536c789e-1767914900-92.44.195.3-b35a76c8a4efb0a71337bd87862613b563ddd052289fea2c104fe99b4cefc1a5
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Gibi 2",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 
