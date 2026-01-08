@@ -1,8 +1,8 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/veliaht.webp" group-title="TV DİZİLERİ",Veliaht 15.Bölüm
-https://video.twimg.com/amplify_video/2004297149236793344/pl/QXEezCH02ldy17P7.m3u8?tag=21
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/veliaht.webp" group-title="TV DİZİLERİ",Veliaht 16.Bölüm
+https://video.twimg.com/amplify_video/2009368481674723328/pl/xKc5jZid57P70OUS.m3u8?tag=21
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kskanmak.webp" group-title="TV DİZİLERİ",Kıskanmak 17.Bölüm
 https://video.twimg.com/amplify_video/2008641542139916288/pl/131V7FTEbmET0y2E.m3u8?tag=21
@@ -244,24 +244,6 @@ https://qp21.uk-traffic-076.com/hls2/02/00028/wpm6mp071vyl_n/index-v1-a1.m3u8?t=
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Karma",End
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
-
-
-# ♦♦♦♦♦ Gibi ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://dizipall38.com/uploads/series/original/gibi-9969.webp" group-title="Gibi",9.Bölüm
-https://s3-hls2-cdn59.strmupcdn.com/hls/2ER01RNfM67HqHaw1jgBs7xyzHxeTj/index_1920x1080.m3u8?token=bd5a7d73879e1488fc5ba82c9e52968a-1767915162-92.44.195.3-d6042814e9fc2b5f7e44ff23c053afa73d278e56a5e291c161092eb0467d6b46
-
-#EXTINF:0 tvg-logo="https://dizipall38.com/uploads/series/original/gibi-9969.webp" group-title="Gibi",10.Bölüm
-https://s3-hls2-cdn59.strmupcdn.com/hls/egzOdlIAIdAaNCT0PVl5yFwMQY24wH/index_1920x1080.m3u8?token=c8de8a045dd0b83a4603e77470eef69d-1767915214-92.44.195.3-a0fafc69826e947598fb81c563dd138cbc1c1294d230f1a1ce522431b02552c3
-
-#EXTINF:0 tvg-logo="https://dizipall38.com/uploads/series/original/gibi-9969.webp" group-title="Gibi",11.Bölüm
-https://s3-hls3-cdn48.strmupcdn.cc/hls/GeV8VD1lHPzrBhstEXFF3wvN4nPuCg/index_1920x1080.m3u8?token=5758fb073ebb3d9c8c60af40052964a9-1767915242-92.44.195.3-a068b4d2e45cc0e9fa1cc91ab685a45bca09092fbc88e534063928439612f682
-
-#EXTINF:0 tvg-logo="https://dizipall38.com/uploads/series/original/gibi-9969.webp" group-title="Gibi",12.Bölüm
-https://s3-hls3-cdn48.strmupcdn.cc/hls/Rl17ju9obELsJw1btx4c7I5OUZ3BWk/index_1920x1080.m3u8?token=776f2f093909c1ada27e777f3039561a-1767915269-92.44.195.3-0509a843a6d6e1210fb9a788763108591c7ea415002474843d4ac26a1467ed05
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Gibi",END
-https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
-
 
 # ♦♦♦♦♦ Gibi 2 ♦♦♦♦♦
 
