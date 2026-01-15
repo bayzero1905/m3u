@@ -1,19 +1,14 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/veliaht.webp" group-title="TV DİZİLERİ",Veliaht 16.Bölüm
-https://video.twimg.com/amplify_video/2009368481674723328/pl/xKc5jZid57P70OUS.m3u8?tag=21
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/veliaht.webp" group-title="TV DİZİLERİ",Veliaht 17.Bölüm
+https://video.twimg.com/amplify_video/2011904659946921985/pl/h0roV0-WFOYTjvcg.m3u8?tag=21
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kskanmak.webp" group-title="TV DİZİLERİ",Kıskanmak 18.Bölüm
 https://video.twimg.com/amplify_video/2011216071777193984/pl/bHDkXf7B8Hh1djij.m3u8?tag=21
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.webp" group-title="TV DİZİLERİ",Eşref Rüya 28.Bölüm
 https://video.twimg.com/amplify_video/2011541156174372864/pl/YEg8anIuBmtTwaK8.m3u8?tag=21
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.webp" group-title="TV DİZİLERİ",Eşref Rüya 28.Bölüm Yedek
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www1.yoturkish.com/
-https://5775755774.com/hls2/02/00014/guigpdtffdof_h/index-v1-a1.m3u8?t=1eUV99eo1kehVEqDqkWbV4RPCcV1Qy32x4dvevBeUSI&s=1768494746&e=43200&f=70868&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775755774&p2=5775755774
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.webp" group-title="TV DİZİLERİ",İnci Taneleri 44.Bölüm
 https://video.twimg.com/amplify_video/1923118382347354112/pl/CnGIGSNAkZzwq3nI.m3u8?tag=21
