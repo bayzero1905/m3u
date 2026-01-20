@@ -40,12 +40,12 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 https://qq9.d72577a9dd0ec12.sbs/yayinex7.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top.webp" group-title="MAÇ YAYINLARI",YAYIN 2
+https://dccom.cfd/tabii_spor_uhd/main.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top.webp" group-title="MAÇ YAYINLARI",YAYIN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://macizlevip286.sbs/
 https://b.31454f2edd6df166f5.workers.dev/cefc8a875b06cc6da16ca7dd99157dee/DmodYM9CdSNPUZyc2x7VWd/5131/b.31454f2edd6df166f5.workers.dev/chunklist_hd.m3u8?verify=1768944100325~82.222.78.12~c93ca6121fa5830f49a6cd259e4f5afc
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top.webp" group-title="MAÇ YAYINLARI",YAYIN 3
-https://d7pd9oqdl4d44.cloudfront.net/2025_11_11_17_55_48_23f5fe47-ab6b-4521-9ab9-bd0780225b40/PROD_CMAF_CENC/live-channel_432p25_459127565.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top.webp" group-title="MAÇ YAYINLARI",YAYIN 4
 https://gagas.site/cdn/tabi_spor_hd/main.m3u8
