@@ -261,6 +261,21 @@ https://drinkfromwisdomwell.top/hls/videos/13955/master.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Gibi 3",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
+# ♦♦♦♦♦ Gibi 3 Yedek ♦♦♦♦♦
+
+#EXTINF:0 tvg-logo="https://dizipall38.com/uploads/series/original/gibi-9969.webp" group-title="Gibi 3 Yedek",3.Bölüm
+https://s3-hls3-cdn48.strmupcdn.cc/hls/X4eT2OxPoAFrYuzMQuuFx4qG0k3Bgc/index_1280x720.m3u8?token=cdf6a4e96c99b59db94fb26d52b2dd49-1769565997-82.222.78.12-dceaddc96ea220df296572160bb4f3f6504be3ebf7b15003bf8b172719d963ce
+
+#EXTINF:0 tvg-logo="https://dizipall38.com/uploads/series/original/gibi-9969.webp" group-title="Gibi 3 Yedek",4.Bölüm
+https://s3-hls2-cdn59.strmupcdn.com/hls/bhoghmmQTJbTNqagndaK2txWdUjagG/index_1280x720.m3u8?token=6c23e9c03557fd04254529ee6a3f2bfb-1769566096-82.222.78.12-0958ecccdd5829122445aae50bb32ec401904906e628d2b5453dfab33c48e5a9
+
+#EXTINF:0 tvg-logo="https://dizipall38.com/uploads/series/original/gibi-9969.webp" group-title="Gibi 3 Yedek",5.Bölüm
+https://s3-hls2-cdn59.strmupcdn.com/hls/sOOxPQZlyZHRJvNB8Ft16r65CrTueV/index_1280x720.m3u8?token=605dfa7ba20748fdc188916014c8b1fc-1769566128-82.222.78.12-92c437621983605a35cdf8238375ae8fea4619301035b2dd0522b314c596c63e
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Gibi 3 Yedek",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
+
+
 # ♦♦♦♦♦ Ayrılık da Sevdaya Dahil ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://www.ddizi.im/diziresimleri/ayrilikdahilmin.jpg" group-title="Ayrılık da Sevdaya Dahil",7.Bölüm
 https://video.twimg.com/amplify_video/2011785781073920000/pl/SnI6Aw70Gg83Qp1G.m3u8?tag=21
