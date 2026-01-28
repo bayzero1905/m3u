@@ -1,14 +1,17 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/01/yeraltiafis.jpg" group-title="TV DİZİLERİ",Yeraltı 1.Bölüm
+https://video.twimg.com/amplify_video/2016598183254593536/pl/KyEGiBVALArwgLjc.m3u8?tag=21
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/veliaht.webp" group-title="TV DİZİLERİ",Veliaht 18.Bölüm
 https://video.twimg.com/amplify_video/2014441404055932928/pl/24ZG8Qi6XqqLFMPY.m3u8?tag=21
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kskanmak.webp" group-title="TV DİZİLERİ",Kıskanmak 20.Bölüm
 https://video.twimg.com/amplify_video/2016252810870902784/pl/NJOCXPnVHiIWaLCx.m3u8?tag=21
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.webp" group-title="TV DİZİLERİ",Eşref Rüya 29.Bölüm
-https://video.twimg.com/amplify_video/2014078811285966849/pl/d6MNN6cJE2puDxHA.m3u8?tag=21
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.webp" group-title="TV DİZİLERİ",Eşref Rüya 30.Bölüm
+https://video.twimg.com/amplify_video/2016620430946160640/pl/yuR2obpItmxbaZ51.m3u8?tag=21
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.webp" group-title="TV DİZİLERİ",İnci Taneleri 44.Bölüm
 https://video.twimg.com/amplify_video/1923118382347354112/pl/CnGIGSNAkZzwq3nI.m3u8?tag=21
