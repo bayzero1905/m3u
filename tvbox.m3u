@@ -1,8 +1,8 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/veliaht.webp" group-title="TV DİZİLERİ",Veliaht 20.Bölüm
-https://video.twimg.com/amplify_video/2019516430341779456/pl/3B1Gz5oMBAjim9n_.m3u8?tag=21
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/veliaht.webp" group-title="TV DİZİLERİ",Veliaht 21.Bölüm
+https://video.twimg.com/amplify_video/2022053532166139906/pl/ziXPh3cvzBN82BoF.m3u8?tag=21
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kskanmak.webp" group-title="TV DİZİLERİ",Kıskanmak 22.Bölüm
 https://video.twimg.com/amplify_video/2021326428894052353/pl/vp15kHP1kF4WPbce.m3u8?tag=21
@@ -10,8 +10,8 @@ https://video.twimg.com/amplify_video/2021326428894052353/pl/vp15kHP1kF4WPbce.m3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.webp" group-title="TV DİZİLERİ",Eşref Rüya 32.Bölüm
 https://video.twimg.com/amplify_video/2021726721406337024/pl/pahc9w0UCQdNBewL.m3u8?tag=21
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.webp" group-title="TV DİZİLERİ",İnci Taneleri 46.Bölüm
-https://video.twimg.com/amplify_video/2019516798379454464/pl/iuKPdJvnA52ma0e5.m3u8?tag=21
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.webp" group-title="TV DİZİLERİ",İnci Taneleri 47.Bölüm
+https://video.twimg.com/amplify_video/2022051738363068416/pl/FhHQxkoOTBGPUkMH.m3u8?tag=21
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.webp" group-title="TV DİZİLERİ",Ç.G.Hareketler 210.Bölüm
 https://startv.akamaized.net/2025/12/210_bolum-3e73402d/media-2/hdntl=exp=1765030716~acl=%2f*~data=hdntl~hmac=1f2f19acaf7cef18f001e11fbe774154d787b2463d1cc4b803513076ede87196/stream.m3u8
@@ -172,8 +172,8 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/1D8KstW2qT1CrZrkM
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ Gibi 5 ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://dizipall44.com/uploads/series/original/gibi-9969.webp" group-title="Gibi 5",3.Bölüm
-https://m2sa.uk-traffic-076.com/hls2/02/00024/7nzf2qs6jbc9_n/master.m3u8?t=fmuT_WdJ5TyZ9TGl3Uq7IS1-erLfLA9RFWN4gl8V2p4&s=1770912274&e=43200&v=3721199&srv=x2&i=0.0&sp=5000
+#EXTINF:0 tvg-logo="https://dizipall44.com/uploads/series/original/gibi-9969.webp" group-title="Gibi 5",4.Bölüm
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Gibi 5",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
