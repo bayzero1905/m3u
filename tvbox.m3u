@@ -4,8 +4,8 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/veliaht.webp" group-title="TV DİZİLERİ",Veliaht 21.Bölüm
 https://video.twimg.com/amplify_video/2022053532166139906/pl/ziXPh3cvzBN82BoF.m3u8?tag=21
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kskanmak.webp" group-title="TV DİZİLERİ",Kıskanmak 22.Bölüm
-https://video.twimg.com/amplify_video/2021326428894052353/pl/vp15kHP1kF4WPbce.m3u8?tag=21
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kskanmak.webp" group-title="TV DİZİLERİ",Kıskanmak 23.Bölüm
+https://video.twimg.com/amplify_video/2023865875581837312/pl/p0ZBlv6PbYiGwNsI.m3u8?tag=21
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.webp" group-title="TV DİZİLERİ",Eşref Rüya 32.Bölüm
 https://video.twimg.com/amplify_video/2021726721406337024/pl/pahc9w0UCQdNBewL.m3u8?tag=21
@@ -20,10 +20,10 @@ https://startv.akamaized.net/2025/12/210_bolum-3e73402d/media-2/hdntl=exp=176503
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/paranormal-cuma@2x.webp" group-title="FİLM",Paranormal Cuma
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.life/v/504664/poster/thumb-lg/paranormal-cuma.jpg" group-title="FİLM",Paranormal Cuma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.ws/
-https://s231.rapidrame.com/hls2/01/00026/q3y1it3yrrqj_,l,n,.urlset/index-f1-v1-a1.m3u8?t=YCKfzlFm5s6iYyurRj9MwgJ2eDDWMa4xJzqMuQWYuCg&s=1771290604&e=86400&f=130087&srv=s430&i=0.0&sp=0&p1=s231&p2=s231
+https://vs6.photomag.biz/v/Paranormal.Cuma.2024.WEB-DL.1080p.H.264-HDM/480.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="FİLM",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
