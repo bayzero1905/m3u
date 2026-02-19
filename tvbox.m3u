@@ -33,7 +33,9 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 https://video.twimg.com/amplify_video/2024099607513317376/pl/heNdlStxIR24afIC.m3u8?variant_version=1&tag=21
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top.webp" group-title="MAÇ YAYINLARI",YAYIN 2
-https://dccom.cfd/tabii_spor_uhd/main.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
+https://no6.d72577a9dd0ec27.sbs/ex7/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top.webp" group-title="MAÇ YAYINLARI",YAYIN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
