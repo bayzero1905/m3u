@@ -169,11 +169,11 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/1D8KstW2qT1CrZrkM
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ Gibi 5 ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://dizipal47.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 5",8.Bölüm
-https://pjs1.uk-traffic-076.com/hls2/02/00024/07nrfedxzw2n_n/index-v1-a1.m3u8?t=Y09Bexi7Lg17tWIaqOCQTMvdWI_SSH4KrL2Yr-0tLFM&s=1771602196&e=43200&v=4906476&srv=x1&i=0.0&sp=5000
-
 #EXTINF:0 tvg-logo="https://dizipal47.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 5",9.Bölüm
-https://m6ks.uk-traffic-076.com/hls2/01/00024/yc7sqx8hqqwf_n/index-v1-a1.m3u8?t=2jd7uQW6ikQ1ps05Qn--QNImMdbRrzx-5ezg0gQWJsY&s=1771602222&e=43200&v=5317362&srv=x2&i=0.0&sp=5000
+https://m6ks.uk-traffic-076.com/hls2/01/00024/yc7sqx8hqqwf_n/master.m3u8?t=9-xnHj-Q-i2MzKhokhE6dblWH5fUPCh2ERtSzdohRes&s=1771687092&e=43200&v=5317362&srv=x2&i=0.0&sp=5000
+
+#EXTINF:0 tvg-logo="https://dizipal47.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 5",10.Bölüm
+https://lam1.uk-traffic-076.com/hls2/01/00024/il11qcuhas6a_n/master.m3u8?t=iEIK6mSQdmDdmN-mgrUph3oinDVkSgIheJVIM0wnEEc&s=1771687188&e=43200&v=5876988&srv=x1&i=0.0&sp=5000
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Gibi 5",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
