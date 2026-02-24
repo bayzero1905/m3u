@@ -170,19 +170,26 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/1D8KstW2qT1CrZrkM
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ Gibi 5 ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://dizipal47.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 5",10.Bölüm
-https://lam1.uk-traffic-076.com/hls2/01/00024/il11qcuhas6a_n/master.m3u8?t=BGdSd27SbBAltCiX3QjXf2IHiaOsOzzo01qh1eQfyZQ&s=1771856832&e=43200&v=5876988&srv=x1&i=0.0&sp=5000
-
-#EXTINF:0 tvg-logo="https://dizipal47.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 5",11.Bölüm
-https://zm1w.uk-traffic-076.com/hls2/02/00024/z2glp38uxtkq_n/index-v1-a1.m3u8?t=wiADHhwT-MnwZtpDGk8CDbU38KrniNLutK-RrayMEMA&s=1771856862&e=43200&v=6325249&srv=x1&i=0.0&sp=5000
-
 #EXTINF:0 tvg-logo="https://dizipal47.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 5",12.Bölüm
-https://zm1w.uk-traffic-076.com/hls2/01/00025/6brb4ll10sz7_n/index-v1-a1.m3u8?t=zjcTa8X9zllxYXVYzi_z_jC8-u3Xmicil5WdOsFou80&s=1771856884&e=43200&v=6325324&srv=x2&i=0.0&sp=5000
+https://zm1w.uk-traffic-076.com/hls2/01/00025/6brb4ll10sz7_n/index-v1-a1.m3u8?t=jbQl_BRIn1x77aZT1iAY9ydLHokVrqchQoey7SnglsQ&s=1771937785&e=43200&v=6325324&srv=x2&i=0.0&sp=5000
 
 #EXTINF:0 tvg-logo="https://dizipal47.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 5",13.Bölüm
-https://hd1d.uk-traffic-076.com/hls2/01/00025/h274l95uojtc_n/master.m3u8?t=8kKq_7FN_XTkmYnCcYFav_HdQ939Xhlj9UPvezYYNjg&s=1771856936&e=43200&v=6325490&srv=x2&i=0.0&sp=5000
+https://hd1d.uk-traffic-076.com/hls2/01/00025/h274l95uojtc_n/index-v1-a1.m3u8?t=71glrdm2g_a4u0tcy3rkVIRbr1GVNU8Cnkkksu_QWYc&s=1771937810&e=43200&v=6325490&srv=x2&i=0.0&sp=5000
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Gibi 5",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
+
+# ♦♦♦♦♦ Gibi 6 ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://dizipal47.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 6",1.Bölüm
+https://ksm2.uk-traffic-076.com/hls2/01/00026/tsd4i5vs4alk_n/master.m3u8?t=47MQ7n5RXt9fSPyyBwJrj1yYsVXeFMOQjN266SCleJM&s=1771937857&e=43200&v=6535018&srv=x1&i=0.0&sp=5000&fr=tsd4i5vs4alk
+
+#EXTINF:0 tvg-logo="https://dizipal47.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 6",2.Bölüm
+https://z01k.uk-traffic-076.com/hls2/02/00026/gbp3432t632k_n/index-v1-a1.m3u8?t=GphIGY_bU8BYATaU1vycZWQv32ntkcQ10hR9b2iMjF4&s=1771937885&e=43200&v=6535133&srv=x1&i=0.0&sp=5000&fr=gbp3432t632k
+
+#EXTINF:0 tvg-logo="https://dizipal47.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 6",3.Bölüm
+https://a1q2.uk-traffic-076.com/hls2/02/00026/1wooj014qweh_n/index-v1-a1.m3u8?t=NJTmhG5K7K-KznvIXNmTD0X6P6h4T1lMebuMmWczw4c&s=1771937905&e=43200&v=6535221&srv=x2&i=0.0&sp=5000&fr=1wooj014qweh
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Gibi 6",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 
