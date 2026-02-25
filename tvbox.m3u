@@ -7,8 +7,8 @@ https://video.twimg.com/amplify_video/2024588563023605761/pl/JjBwiOl_oBQ6k3kz.m3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kskanmak.webp" group-title="TV DİZİLERİ",Kıskanmak 24.Bölüm
 https://video.twimg.com/amplify_video/2026454488526061568/pl/flDdMAGci3nbMDfa.m3u8?tag=21
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.webp" group-title="TV DİZİLERİ",Eşref Rüya 33.Bölüm
-https://video.twimg.com/amplify_video/2024222843139919874/pl/aAd5DE17TyLih9ft.m3u8?tag=21
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.webp" group-title="TV DİZİLERİ",Eşref Rüya 34.Bölüm
+https://video.twimg.com/amplify_video/2026747179814014977/pl/hp-lMLvCymhwnbiQ.m3u8?tag=21
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.webp" group-title="TV DİZİLERİ",İnci Taneleri 48.Bölüm
 https://video.twimg.com/amplify_video/2024587233953566720/pl/ymZZ9vX1YPAj7Q_Q.m3u8?tag=21
@@ -168,11 +168,11 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/1D8KstW2qT1CrZrkM
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ Gibi 6 ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://dizipal47.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 6",1.Bölüm
-https://kde2.uk-traffic-076.com/hls2/01/00026/tsd4i5vs4alk_n/index-v1-a1.m3u8?t=NpvtCmBm2Wi5IsKrY2yZckMHLsWB-5EwqGMvmBV_OWs&s=1772036199&e=43200&v=6535018&srv=x1&i=0.0&sp=5000&fr=tsd4i5vs4alk
-
 #EXTINF:0 tvg-logo="https://dizipal47.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 6",2.Bölüm
-https://z01k.uk-traffic-076.com/hls2/02/00026/gbp3432t632k_n/master.m3u8?t=dkMb5WTS-Q9cet43wodg6FVjgSBLNn1UVFZGOyvy5bA&s=1772036249&e=43200&v=6535133&srv=x1&i=0.0&sp=5000&fr=gbp3432t632k
+
+
+#EXTINF:0 tvg-logo="https://dizipal47.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 6",3.Bölüm
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Gibi 6",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
