@@ -1,8 +1,8 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/veliaht.webp" group-title="TV DİZİLERİ",Veliaht 22.Bölüm
-https://video.twimg.com/amplify_video/2024588563023605761/pl/JjBwiOl_oBQ6k3kz.m3u8?tag=21
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/veliaht.webp" group-title="TV DİZİLERİ",Veliaht 23.Bölüm
+https://video.twimg.com/amplify_video/2027109720260288513/pl/SH3FLn6npcAtLK0h.m3u8?tag=21
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kskanmak.webp" group-title="TV DİZİLERİ",Kıskanmak 24.Bölüm
 https://video.twimg.com/amplify_video/2026454488526061568/pl/flDdMAGci3nbMDfa.m3u8?tag=21
@@ -169,10 +169,10 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 # ♦♦♦♦♦ Gibi 6 ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://dizipal48.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 6",2.Bölüm
-https://z01k.uk-traffic-076.com/hls2/02/00026/gbp3432t632k_n/index-v1-a1.m3u8?t=sNrdDwlseS4rmp-rfOvVK7ZEre5sdqyBG2MPz4QvGrA&s=1772117766&e=43200&v=6980441&srv=x1&i=0.0&sp=5000&fr=gbp3432t632k
+
 
 #EXTINF:0 tvg-logo="https://dizipal48.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 6",3.Bölüm
-https://a1q2.uk-traffic-076.com/hls2/02/00026/1wooj014qweh_n/index-v1-a1.m3u8?t=yMiO12dQmwcUNCq4L6dg-pA1zGs5mrPwLuwpyreZNOQ&s=1772117783&e=43200&v=6980503&srv=x2&i=0.0&sp=5000&fr=1wooj014qweh
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Gibi 6",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
