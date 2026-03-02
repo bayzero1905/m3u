@@ -13,8 +13,15 @@ https://video.twimg.com/amplify_video/2026747179814014977/pl/hp-lMLvCymhwnbiQ.m3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.webp" group-title="TV DİZİLERİ",İnci Taneleri 49.Bölüm
 https://video.twimg.com/amplify_video/2027126516702715904/pl/wRVR8-S_7m1kEGkW.m3u8?tag=21
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.webp" group-title="TV DİZİLERİ",Ç.G.Hareketler 210.Bölüm
-https://startv.akamaized.net/2025/12/210_bolum-3e73402d/media-2/hdntl=exp=1765030716~acl=%2f*~data=hdntl~hmac=1f2f19acaf7cef18f001e11fbe774154d787b2463d1cc4b803513076ede87196/stream.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.webp" group-title="TV DİZİLERİ",Ç.G.Hareketler 214.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.startv.com.tr/
+https://startv.akamaized.net/2026/02/214_bolum-b182d471/media-2/hdntl=exp=1772547090~acl=%2f*~data=hdntl~hmac=a04fb0218491728880ea0f3d250aa60393ebda400ac3dc0c547e67192f5f0a0e/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.webp" group-title="TV DİZİLERİ",Ç.G.Hareketler 215.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.startv.com.tr/
+https://startv.akamaized.net/2026/03/215_bolum-960a6b9c/media-2/hdntl=exp=1772547241~acl=%2f*~data=hdntl~hmac=93099346d66a2f9875e4e5b92a6880fb98c711caa53e5b454b14c15697e5cfab/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
