@@ -13,11 +13,6 @@ https://video.twimg.com/amplify_video/2029299670145462272/pl/A6yLDwj13BTidr_J.m3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.webp" group-title="TV DİZİLERİ",İnci Taneleri 50.Bölüm
 https://video.twimg.com/amplify_video/2029663218080055297/pl/ImOGMWHxe_qp7zgB.m3u8?tag=21
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.webp" group-title="TV DİZİLERİ",Ç.G.Hareketler 214.Bölüm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.startv.com.tr/
-https://startv.akamaized.net/2026/02/214_bolum-b182d471/media-2/hdntl=exp=1772547090~acl=%2f*~data=hdntl~hmac=a04fb0218491728880ea0f3d250aa60393ebda400ac3dc0c547e67192f5f0a0e/stream.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.webp" group-title="TV DİZİLERİ",Ç.G.Hareketler 215.Bölüm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.startv.com.tr/
@@ -175,9 +170,6 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/1D8KstW2qT1CrZrkM
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ Gibi 6 ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://dizipal49.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 6",6.Bölüm
-https://video.twimg.com/amplify_video/1912977351656300544/pl/xbjd7HfnFda4hWrd.m3u8?variant_version=1&tag=16
-
 #EXTINF:0 tvg-logo="https://dizipal49.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 6",7.Bölüm
 https://video.twimg.com/amplify_video/1915511607561441281/pl/0LD11UItJWirCmG6.m3u8?variant_version=1&tag=16
 
