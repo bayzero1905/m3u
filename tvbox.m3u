@@ -1,8 +1,8 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/veliaht.webp" group-title="TV DİZİLERİ",Veliaht 24.Bölüm
-https://video.twimg.com/amplify_video/2029663043211104256/pl/VUQZ3usPyLcuLHqZ.m3u8?tag=21
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/veliaht.webp" group-title="TV DİZİLERİ",Veliaht 25.Bölüm
+https://video.twimg.com/amplify_video/2032198652974780416/pl/I8XuNV8GndEVp3IX.m3u8?tag=21
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kskanmak.webp" group-title="TV DİZİLERİ",Kıskanmak 25.Bölüm
 https://video.twimg.com/amplify_video/2028936428080480256/pl/Lgybwb44JSS6kTLI.m3u8?tag=21
@@ -10,8 +10,8 @@ https://video.twimg.com/amplify_video/2028936428080480256/pl/Lgybwb44JSS6kTLI.m3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.webp" group-title="TV DİZİLERİ",Eşref Rüya 36.Bölüm
 https://video.twimg.com/amplify_video/2031836965658603521/pl/4UwS5-ermZpwJZSk.m3u8?tag=21
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.webp" group-title="TV DİZİLERİ",İnci Taneleri 50.Bölüm
-https://video.twimg.com/amplify_video/2029663218080055297/pl/ImOGMWHxe_qp7zgB.m3u8?tag=21
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.webp" group-title="TV DİZİLERİ",İnci Taneleri 51.Bölüm
+https://video.twimg.com/amplify_video/2032193378574565376/pl/6WQiYW2yfNhpzhpw.m3u8?tag=21
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.webp" group-title="TV DİZİLERİ",Ç.G.Hareketler 216.Bölüm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
