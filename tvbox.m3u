@@ -1,6 +1,15 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/03/doktorbaskahayattaafis.jpg" group-title="DİZİ",Doktor Başka Hayatta 1.Bölüm
+https://video.twimg.com/amplify_video/2030727584107933696/pl/nncs0sARpSIewm4A.m3u8?tag=21
+
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/03/doktorbaskahayattaafis.jpg" group-title="DİZİ",Doktor Başka Hayatta 2.Bölüm
+https://video.twimg.com/amplify_video/2033273621221642240/pl/EJO6TmbkFLq2wXqA.m3u8?tag=21
+
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/03/doktorbaskahayattaafis.jpg" group-title="DİZİ",Doktor Başka Hayatta 3.Bölüm
+https://video.twimg.com/amplify_video/2035811527496716289/pl/JpDOd7cZhcqdndIi.m3u8?tag=21
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/veliaht.webp" group-title="TV DİZİLERİ",Veliaht 25.Bölüm
 https://video.twimg.com/amplify_video/2032198652974780416/pl/I8XuNV8GndEVp3IX.m3u8?tag=21
 
@@ -9,9 +18,6 @@ https://video.twimg.com/amplify_video/2034010434710155264/pl/aKcMX56kMbe0yFj4.m3
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.webp" group-title="TV DİZİLERİ",Eşref Rüya 37.Bölüm
 https://video.twimg.com/amplify_video/2034373191645184000/pl/ZLZyQDGaRJ58QXQt.m3u8?tag=21
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.webp" group-title="TV DİZİLERİ",İnci Taneleri 51.Bölüm
-https://video.twimg.com/amplify_video/2032193378574565376/pl/6WQiYW2yfNhpzhpw.m3u8?tag=21
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.webp" group-title="TV DİZİLERİ",Ç.G.Hareketler 216.Bölüm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
