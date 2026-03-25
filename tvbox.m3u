@@ -1,12 +1,6 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/03/doktorbaskahayattaafis.jpg" group-title="TV DİZİLERİ",Doktor Başka Hayatta 1.Bölüm
-https://video.twimg.com/amplify_video/2030727584107933696/pl/nncs0sARpSIewm4A.m3u8?tag=21
-
-#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/03/doktorbaskahayattaafis.jpg" group-title="TV DİZİLERİ",Doktor Başka Hayatta 2.Bölüm
-https://video.twimg.com/amplify_video/2033273621221642240/pl/EJO6TmbkFLq2wXqA.m3u8?tag=21
-
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/03/doktorbaskahayattaafis.jpg" group-title="TV DİZİLERİ",Doktor Başka Hayatta 3.Bölüm
 https://video.twimg.com/amplify_video/2035811527496716289/pl/JpDOd7cZhcqdndIi.m3u8?tag=21
 
@@ -175,20 +169,14 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/1D8KstW2qT1CrZrkM
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="MAÇ YAYINLARI",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
-# ♦♦♦♦♦ Gibi 6 ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://dizipal49.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 6",10.Bölüm
-https://video.twimg.com/amplify_video/1923122978885074945/pl/lj_UvLQxs-3G4YB5.m3u8?variant_version=1&tag=21
+# ♦♦♦♦♦ Mahsun J ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://dizipal.im/wp-content/uploads/2025/10/f6VrRlLqbWiGlhdBT658rWe1nLQ.jpg" group-title="Mahsun J",1.Bölüm
+https://dn2p.uk-traffic-076.com/hls2/01/00022/uvkko2hagql7_n/index-v1-a1.m3u8?t=9mG6gcBoeLdfN0LB4tVv8L0FuXW-nD0yGSlt9ojqybA&s=1774458932&e=43200&v=12920908&srv=x2&i=0.0&sp=5000&fr=uvkko2hagql7
 
-#EXTINF:0 tvg-logo="https://dizipal49.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 6",11.Bölüm
-https://video.twimg.com/amplify_video/1925661295027654656/pl/ASL7e-PfJ2rQJZ42.m3u8?variant_version=1&tag=21
+#EXTINF:0 tvg-logo="https://dizipal.im/wp-content/uploads/2025/10/f6VrRlLqbWiGlhdBT658rWe1nLQ.jpg" group-title="Mahsun J",2.Bölüm
+https://m6ks.uk-traffic-076.com/hls2/01/00022/2qlh5v1n86fh_n/index-v1-a1.m3u8?t=s63nZ1vfKnH3EJlJQb1ruUuYnOTwaEFQQVvk7KAdlCc&s=1774459088&e=43200&v=12921170&srv=x2&i=0.0&sp=5000&fr=2qlh5v1n86fh
 
-#EXTINF:0 tvg-logo="https://dizipal49.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 6",12.Bölüm
-https://video.twimg.com/amplify_video/1928199267107139584/pl/bY_BCOV0QzT9RbYH.m3u8?variant_version=1&tag=21
-
-#EXTINF:0 tvg-logo="https://dizipal49.live/uploads/series/original/gibi-9969.webp" group-title="Gibi 6",13.Bölüm
-https://video.twimg.com/amplify_video/1930915876565393408/pl/u78oNR8zd7BThWww.m3u8?variant_version=1&tag=21
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Gibi 6",END
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Mahsun J",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 
