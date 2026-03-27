@@ -24,8 +24,12 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://www.hdfilmizle.life/v/504664/poster/thumb-lg/paranormal-cuma.jpg" group-title="FİLM",Paranormal Cuma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.ws/
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
 https://vs6.photomag.biz/v/Paranormal.Cuma.2024.WEB-DL.1080p.H.264-HDM/480.m3u8
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/not-what-you-think@2x.webp" group-title="FİLM",Bildiğin Gibi Değil
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00026/k8heghkwaiyy_,l,n,.urlset/index-f1-v1-a1.m3u8?t=t5u1wcFTxHTMC_BwMtSNvUuP9dcHlQG98vKQbaiZS7E&s=1774608799&e=86400&f=131110&srv=s430&i=0.0&sp=0&p1=s230&p2=s230
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="FİLM",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
@@ -170,11 +174,11 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/1D8KstW2qT1CrZrkM
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ Mahsun J ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://dizipal.im/wp-content/uploads/2025/10/f6VrRlLqbWiGlhdBT658rWe1nLQ.jpg" group-title="Mahsun J",2.Bölüm
-https://m6ks.uk-traffic-076.com/hls2/01/00022/2qlh5v1n86fh_n/index-v1-a1.m3u8?t=_8cS_W_5QgOlTetYVPj7jWkVJMqjHJ-vsZ3HjyjTvsM&s=1774538694&e=43200&v=13113009&srv=x2&i=0.0&sp=5000&fr=2qlh5v1n86fh
-
 #EXTINF:0 tvg-logo="https://dizipal.im/wp-content/uploads/2025/10/f6VrRlLqbWiGlhdBT658rWe1nLQ.jpg" group-title="Mahsun J",3.Bölüm
-https://y3k9.uk-traffic-076.com/hls2/01/00023/h5h91rinvw3l_n/index-v1-a1.m3u8?t=EAnXr62qA3EnBp0wNVLNUpyJwvSIC-eksyAquMrtNac&s=1774538733&e=43200&v=13113091&srv=x2&i=0.0&sp=5000
+https://y3k9.uk-traffic-076.com/hls2/01/00023/h5h91rinvw3l_n/index-v1-a1.m3u8?t=EXuvUno-4POjV_QABe7e5_Kks8yEkJHql6gJe1nNT9Y&s=1774608959&e=43200&v=13262247&srv=x2&i=0.0&sp=5000
+
+#EXTINF:0 tvg-logo="https://dizipal.im/wp-content/uploads/2025/10/f6VrRlLqbWiGlhdBT658rWe1nLQ.jpg" group-title="Mahsun J",4.Bölüm
+https://jfn2.uk-traffic-076.com/hls2/02/00023/kprugghq3oze_n/index-v1-a1.m3u8?t=1okeP9I5G1SvL6HCiu4Mr7ViDKMP1306LS2IXz_CXPA&s=1774608976&e=43200&v=13262274&srv=x2&i=0.0&sp=5000&fr=kprugghq3oze
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Mahsun J",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
