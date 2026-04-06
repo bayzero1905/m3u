@@ -1,6 +1,9 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/04/delikanliafis.jpg" group-title="TV DİZİLERİ",Delikanlı 1.Bölüm
+https://video.twimg.com/amplify_video/2041232928383094784/pl/40NIFGQ8Iv6_fSm5.m3u8?tag=21
+
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/03/cirkinadis.jpg" group-title="TV DİZİLERİ",Çirkin 2.Bölüm
 https://video.twimg.com/amplify_video/2040892866273460224/pl/U7CtlqSW1-lIalm6.m3u8?tag=21
 
