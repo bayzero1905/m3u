@@ -180,11 +180,20 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/1D8KstW2qT1CrZrkM
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ Mahsun J ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://dizipal.im/wp-content/uploads/2025/10/f6VrRlLqbWiGlhdBT658rWe1nLQ.jpg" group-title="Mahsun J",1.Bölüm
-https://pa2s.uk-traffic-076.com/hls2/02/00026/g94aa54qhs0t_n/master.m3u8?t=GtKV3yhujrz1goE9yuDQsrheL-pXoW-BT-mz2vB1_oM&s=1776271305&e=43200&v=7241933&srv=x2&i=0.0&sp=5000&fr=g94aa54qhs0t
-
 #EXTINF:0 tvg-logo="https://dizipal.im/wp-content/uploads/2025/10/f6VrRlLqbWiGlhdBT658rWe1nLQ.jpg" group-title="Mahsun J",2.Bölüm
-https://ksm2.uk-traffic-076.com/hls2/02/00026/1c9zve8xf8w3_n/master.m3u8?t=ELgj03jsMI-JgUySyySWFn8l-wnCVfU_ah6eljDRpL0&s=1776271382&e=43200&v=7945465&srv=x1&i=0.0&sp=5000&fr=1c9zve8xf8w3
+https://ksm2.uk-traffic-076.com/hls2/02/00026/1c9zve8xf8w3_n/master.m3u8?t=paoKA3c9DaarwlS8M91uENekt_8cjWKsIjgt83gF30s&s=1776345925&e=43200&v=7945465&srv=x1&i=0.0&sp=5000&fr=1c9zve8xf8w3
+
+#EXTINF:0 tvg-logo="https://dizipal.im/wp-content/uploads/2025/10/f6VrRlLqbWiGlhdBT658rWe1nLQ.jpg" group-title="Mahsun J",3.Bölüm
+https://an52.uk-traffic-076.com/hls2/02/00026/jx2rzm0stop7_n/master.m3u8?t=6-duegTXRhJkCt25pmKbHtk-FLb4ocedriI7WTAO6Do&s=1776346186&e=43200&v=7948900&srv=x2&i=0.0&sp=5000&fr=jx2rzm0stop7
+
+#EXTINF:0 tvg-logo="https://dizipal.im/wp-content/uploads/2025/10/f6VrRlLqbWiGlhdBT658rWe1nLQ.jpg" group-title="Mahsun J",4.Bölüm
+https://y3k9.uk-traffic-076.com/hls2/01/00026/835b0399amqk_n/master.m3u8?t=hHsQsGtxaFzfMw2SShe0gUfbqtbEAV7Arw09eZ2w8RY&s=1776350144&e=43200&v=8838238&srv=x1&i=0.0&sp=5000
+
+#EXTINF:0 tvg-logo="https://dizipal.im/wp-content/uploads/2025/10/f6VrRlLqbWiGlhdBT658rWe1nLQ.jpg" group-title="Mahsun J",5.Bölüm
+https://ak1m.uk-traffic-076.com/hls2/02/00027/wvax7l6mcepv_n/master.m3u8?t=uOGCAHT1MZfRFX-3KQWoWZcQVJRi-zQwmRlk87A04hU&s=1776350190&e=43200&v=8413247&srv=x1&i=0.0&sp=5000
+
+#EXTINF:0 tvg-logo="https://dizipal.im/wp-content/uploads/2025/10/f6VrRlLqbWiGlhdBT658rWe1nLQ.jpg" group-title="Mahsun J",6.Bölüm
+https://zm1w.uk-traffic-076.com/hls2/01/00027/pyruk0ktl65l_n/master.m3u8?t=huMHfXA0l5znW99wCRNIpdVHoj3s-EW_SCCT5-wEP-Y&s=1776350236&e=43200&v=8838127&srv=x2&i=0.0&sp=5000
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Mahsun J",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
