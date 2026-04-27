@@ -25,9 +25,7 @@ https://startv-p3.mncdn.com/smil:cgh2_216_smil.smil/playlist.m3u8?st=OdmoAIp6A17
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://www.hdfilmizle.so/v/505031/poster/thumb-lg/yan-yana.webp" group-title="FİLM",Yan Yana
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.so/v/505031/poster/watch-lg/yan-yana.webp" group-title="FİLM",Yan Yana
 https://vs20.photofunny.org/v/Yan.Yana.2025.WEB-DL.1080p.H.264-HDM/480.m3u8
 
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/not-what-you-think@2x.webp" group-title="FİLM",Bildiğin Gibi Değil
