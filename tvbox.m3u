@@ -1,17 +1,14 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/04/delikanliafis.jpg" group-title="TV DİZİLERİ",Delikanlı 5.Bölüm
-https://video.twimg.com/amplify_video/2051403179254816769/pl/Kb2UQNdQH8FJfCz1.m3u8?tag=27
-
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/04/delikanliafis.jpg" group-title="TV DİZİLERİ",Delikanlı 6.Bölüm
 https://video.twimg.com/amplify_video/2053944294491275264/pl/S0acXjppqj5M_Iyz.m3u8?tag=27
 
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/03/cirkinadis.jpg" group-title="TV DİZİLERİ",Çirkin 7.Bölüm
 https://video.twimg.com/amplify_video/2053579045367861249/pl/Q07goL7dwd5mbj0q.m3u8?tag=27
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kskanmak.webp" group-title="TV DİZİLERİ",Kıskanmak 31.Bölüm
-https://video.twimg.com/amplify_video/2051767281709903872/pl/vf6g2WmxSaBziST8.m3u8?tag=27
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kskanmak.webp" group-title="TV DİZİLERİ",Kıskanmak 32.Bölüm
+https://video.twimg.com/amplify_video/2054304112620036096/pl/rxbe4HukN79t0bMm.m3u8?tag=27
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.webp" group-title="TV DİZİLERİ",Eşref Rüya 43.Bölüm
 https://video.twimg.com/amplify_video/2052129214971719687/pl/fHycoqr1zKp1h4Ib.m3u8?tag=27
