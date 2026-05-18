@@ -4,6 +4,9 @@
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/04/delikanliafis.jpg" group-title="TV DİZİLERİ",Delikanlı 6.Bölüm
 https://video.twimg.com/amplify_video/2053944294491275264/pl/S0acXjppqj5M_Iyz.m3u8?tag=27
 
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/04/delikanliafis.jpg" group-title="TV DİZİLERİ",Delikanlı 7.Bölüm
+https://video.twimg.com/amplify_video/2056475271167901696/pl/X3k8T-EiOpqNoITI.m3u8?tag=27
+
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/03/cirkinadis.jpg" group-title="TV DİZİLERİ",Çirkin 8.Bölüm
 https://video.twimg.com/amplify_video/2056119709146173440/pl/DrHYCVfUzBl-pr-W.m3u8?tag=27
 
@@ -190,26 +193,6 @@ https://x.palv2.cfd/hls/aHR0cHM6Ly95M2s5LnVrLXRyYWZmaWMtMDc2LmNvbS9obHMyLzAyLzAw
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ Temiz Para ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://dobien.live/upload/images/3q9PkuwcPcIJwMKdYkaftm8eQgj.jpg" group-title="Temiz Para",1.Bölüm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://dobien.live/
-https://dobien.live/hlszone.php?url=https%3A%2F%2Fhlszone.com%2Fcdn%2Fhls%2F99e8b55c8cb77ef369e07202e638577f%2Fmaster.txt.m3u8
-
-#EXTINF:0 tvg-logo="https://dobien.live/upload/images/3q9PkuwcPcIJwMKdYkaftm8eQgj.jpg" group-title="Temiz Para",2.Bölüm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://dobien.live/
-https://dobien.live/hlszone.php?url=https%3A%2F%2Fhlszone.com%2Fcdn%2Fhls%2Fb8f6a6b2b327cf601b4b17b8470424c2%2Fmaster.txt.m3u8
-
-#EXTINF:0 tvg-logo="https://dobien.live/upload/images/3q9PkuwcPcIJwMKdYkaftm8eQgj.jpg" group-title="Temiz Para",3.Bölüm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://dobien.live/
-https://dobien.live/hlszone.php?url=https%3A%2F%2Fhlszone.com%2Fcdn%2Fhls%2F9b6fe51e01712b0b730e1e839eaccac0%2Fmaster.txt.m3u8
-
-#EXTINF:0 tvg-logo="https://dobien.live/upload/images/3q9PkuwcPcIJwMKdYkaftm8eQgj.jpg" group-title="Temiz Para",4.Bölüm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://dobien.live/
-https://dobien.live/hlszone.php?url=https%3A%2F%2Fhlszone.com%2Fcdn%2Fhls%2Fd38a8d06bd9429d0d5d7be1133d11140%2Fmaster.txt.m3u8
-
 #EXTINF:0 tvg-logo="https://dobien.live/upload/images/3q9PkuwcPcIJwMKdYkaftm8eQgj.jpg" group-title="Temiz Para",5.Bölüm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://dobien.live/
