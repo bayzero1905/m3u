@@ -186,18 +186,58 @@ https://x.palv2.cfd/hls/aHR0cHM6Ly95M2s5LnVrLXRyYWZmaWMtMDc2LmNvbS9obHMyLzAyLzAw
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Mahsun J",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
-# ♦♦♦♦♦ Temiz Para ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://dobien.live/upload/images/3q9PkuwcPcIJwMKdYkaftm8eQgj.jpg" group-title="Temiz Para",9.Bölüm
+# ♦♦♦♦♦ Leyla Hâli ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://dobien.live/upload/images/mYb69gMubyoWswqmRNhb9ntOXT1.jpg" group-title="Leyla Hâli",1.Bölüm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://dobien.live/
-https://dobien.live/hlszone.php?url=https%3A%2F%2Fhlszone.com%2Fcdn%2Fhls%2F8f4209337fac07364cd05eb5f5abefd4%2Fmaster.txt.m3u8
+https://dobien.live/hlszone.php?url=https%3A%2F%2Fhlszone.com%2Fcdn%2Fhls%2Fcabc3255a88ebaf27ec56f6637dfe209%2Fmaster.txt.m3u8
 
-#EXTINF:0 tvg-logo="https://dobien.live/upload/images/3q9PkuwcPcIJwMKdYkaftm8eQgj.jpg" group-title="Temiz Para",10.Bölüm
+#EXTINF:0 tvg-logo="https://dobien.live/upload/images/mYb69gMubyoWswqmRNhb9ntOXT1.jpg" group-title="Leyla Hâli",2.Bölüm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://dobien.live/
-https://dobien.live/hlszone.php?url=https%3A%2F%2Fhlszone.com%2Fcdn%2Fhls%2Fafbd58157e39326bea16499fe122321b%2Fmaster.txt.m3u8
+https://dobien.live/hlszone.php?url=https%3A%2F%2Fhlszone.com%2Fcdn%2Fhls%2Fcd480856cff2ed4a80a226bdfbe67648%2Fmaster.txt.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Temiz Para",END
+#EXTINF:0 tvg-logo="https://dobien.live/upload/images/mYb69gMubyoWswqmRNhb9ntOXT1.jpg" group-title="Leyla Hâli",3.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://dobien.live/
+https://dobien.live/hlszone.php?url=https%3A%2F%2Fhlszone.com%2Fcdn%2Fhls%2Fc0979f88766ce54f21ee53ee0219fb06%2Fmaster.txt.m3u8
+
+#EXTINF:0 tvg-logo="https://dobien.live/upload/images/mYb69gMubyoWswqmRNhb9ntOXT1.jpg" group-title="Leyla Hâli",4.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://dobien.live/
+https://dobien.live/hlszone.php?url=https%3A%2F%2Fhlszone.com%2Fcdn%2Fhls%2F9d87bd1c4c0a2cd18cfd6bae29b5fac1%2Fmaster.txt.m3u8
+
+#EXTINF:0 tvg-logo="https://dobien.live/upload/images/mYb69gMubyoWswqmRNhb9ntOXT1.jpg" group-title="Leyla Hâli",5.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://dobien.live/
+https://dobien.live/hlszone.php?url=https%3A%2F%2Fhlszone.com%2Fcdn%2Fhls%2Fc840a5dd29cc827e0b54a7f05311f7e8%2Fmaster.txt.m3u8
+
+#EXTINF:0 tvg-logo="https://dobien.live/upload/images/mYb69gMubyoWswqmRNhb9ntOXT1.jpg" group-title="Leyla Hâli",6.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://dobien.live/
+https://dobien.live/hlszone.php?url=https%3A%2F%2Fhlszone.com%2Fcdn%2Fhls%2F0010a16c474e658fc49dbf3a3cf0ec9e%2Fmaster.txt.m3u8
+
+#EXTINF:0 tvg-logo="https://dobien.live/upload/images/mYb69gMubyoWswqmRNhb9ntOXT1.jpg" group-title="Leyla Hâli",7.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://dobien.live/
+https://dobien.live/hlszone.php?url=https%3A%2F%2Fhlszone.com%2Fcdn%2Fhls%2Ff6e77bfe70884c6caf622d2d10740c55%2Fmaster.txt.m3u8
+
+#EXTINF:0 tvg-logo="https://dobien.live/upload/images/mYb69gMubyoWswqmRNhb9ntOXT1.jpg" group-title="Leyla Hâli",8.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://dobien.live/
+https://dobien.live/hlszone.php?url=https%3A%2F%2Fhlszone.com%2Fcdn%2Fhls%2Fdb4c4480fb95399ddbb8b7e95895d1c4%2Fmaster.txt.m3u8
+
+#EXTINF:0 tvg-logo="https://dobien.live/upload/images/mYb69gMubyoWswqmRNhb9ntOXT1.jpg" group-title="Leyla Hâli",9.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://dobien.live/
+https://dobien.live/hlszone.php?url=https%3A%2F%2Fhlszone.com%2Fcdn%2Fhls%2Fdb4c4480fb95399ddbb8b7e95895d1c4%2Fmaster.txt.m3u8
+
+#EXTINF:0 tvg-logo="https://dobien.live/upload/images/mYb69gMubyoWswqmRNhb9ntOXT1.jpg" group-title="Leyla Hâli",10.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://dobien.live/
+https://dobien.live/hlszone.php?url=https%3A%2F%2Fhlszone.com%2Fcdn%2Fhls%2Fdb4c4480fb95399ddbb8b7e95895d1c4%2Fmaster.txt.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Leyla Hâli",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 
