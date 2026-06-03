@@ -7,8 +7,8 @@ https://video.twimg.com/amplify_video/2056475271167901696/pl/X3k8T-EiOpqNoITI.m3
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/03/cirkinadis.jpg" group-title="TV DİZİLERİ",Çirkin 8.Bölüm
 https://video.twimg.com/amplify_video/2056119709146173440/pl/DrHYCVfUzBl-pr-W.m3u8?tag=27
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.webp" group-title="TV DİZİLERİ",Eşref Rüya 45.Bölüm
-https://video.twimg.com/amplify_video/2057202337773441024/pl/YCGngXU6gTm2laGp.m3u8?tag=27
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.webp" group-title="TV DİZİLERİ",Eşref Rüya 46.Bölüm
+https://video.twimg.com/amplify_video/2062276762654900224/pl/nWDmaHyGp5wAxh9B.m3u8?tag=27
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.webp" group-title="TV DİZİLERİ",Ç.G.Hareketler 216.Bölüm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
@@ -187,9 +187,6 @@ https://vs7.photoflick.org/v/The.Sinner.S02E08.WEB-DL.1080p.H.264-HDM.DUAL/480.m
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ İçerde ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://www.ddizi.im/diziresimleri/icerde.jpg" group-title="İçerde",1.Bölüm
-https://vmcdn.ciner.com.tr/ht/2024/06/16/280CC3C5BD4887A23B2625E579CAC525_1280x720.mp4
-
 #EXTINF:0 tvg-logo="https://www.ddizi.im/diziresimleri/icerde.jpg" group-title="İçerde",2.Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/06/16/8397E77313D7E228F40BA0145837A151_1280x720.mp4
 
