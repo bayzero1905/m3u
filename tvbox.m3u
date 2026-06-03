@@ -192,6 +192,20 @@ https://vs4.photoflax.org/v/The.Sinner.S01E08.WEB-DL.1080p.H.264-HDM.DUAL/480.m3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/thesinner.webp" group-title="The Sinner",8.Bölüm
 https://vs7.photoflick.org/v/The.Sinner.S02E08.WEB-DL.1080p.H.264-HDM.DUAL/480.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="The Sinner",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
+
+# ♦♦♦♦♦ İçerde ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.ddizi.im/diziresimleri/icerde.jpg" group-title="İçerde",1.Bölüm
+https://vmcdn.ciner.com.tr/ht/2024/06/16/280CC3C5BD4887A23B2625E579CAC525_1280x720.mp4
+
+#EXTINF:0 tvg-logo="https://www.ddizi.im/diziresimleri/icerde.jpg" group-title="İçerde",2.Bölüm
+https://vmcdn.ciner.com.tr/ht/2024/06/16/8397E77313D7E228F40BA0145837A151_1280x720.mp4
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="İçerde",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
+
+
 
 # ♦♦♦♦♦ END ♦♦♦♦♦
 
