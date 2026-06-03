@@ -165,15 +165,6 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/1D8KstW2qT1CrZrkM
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ The Sinner ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/thesinner.webp" group-title="The Sinner",1.Bölüm
-https://vs2.photofunny.org/v/The.Sinner.S01E01.WEB-DL.1080p.H.264-HDM.DUAL/master.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/thesinner.webp" group-title="The Sinner",2.Bölüm
-https://vs6.photostack.net/v/The.Sinner.S01E02.WEB-DL.1080p.H.264-HDM.DUAL/480.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/thesinner.webp" group-title="The Sinner",3.Bölüm
-https://vs7.photoflick.org/v/The.Sinner.S01E03.WEB-DL.1080p.H.264-HDM.DUAL/480.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/thesinner.webp" group-title="The Sinner",4.Bölüm
 https://vs7.pictureflix.org/v/The.Sinner.S01E04.WEB-DL.1080p.H.264-HDM.DUAL/480.m3u8
 
