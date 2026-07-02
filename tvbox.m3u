@@ -13,10 +13,10 @@ https://startv-p3.mncdn.com/smil:cgh2_216_smil.smil/playlist.m3u8?st=OdmoAIp6A17
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/camsehpa.webp" group-title="FİLM",Cam Sehpa
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ucgunlukdunya.webp" group-title="FİLM",Üç Günlük Dünya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://hdfilmcehennemi.mobi/
-https://srv12.cdnimages2096.shop/hls/camsehpa-2025-webdl-tt35692176mp4-wuP2gaoOPOo.mp4/txt/master.txt
+https://srv12.cdnimages889.shop/hls/ucgunlukdunya-2024-webdl-tt24224490mp4-zBtnjneDi8h.mp4/txt/master.txt
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="FİLM",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
