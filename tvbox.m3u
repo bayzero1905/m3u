@@ -22,6 +22,9 @@ https://srv12.cdnimages889.shop/hls/ucgunlukdunya-2024-webdl-tt24224490mp4-zBtnj
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ MAÇ YAYINLARI ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/trt1.png" group-title="MAÇ YAYINLARI",TRT 1
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6jo8gz6q2uaz&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor
 https://video.twimg.com/amplify_video/2059233970894557184/pl/YrgI-gyIlzhDEeuN.m3u8?tag=14&v=cfc&variant_version=1
 
@@ -73,9 +76,6 @@ https://five.4928d54d950ee70q45.lat/yayinex1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1402.xyz/
 https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/trt1.png" group-title="MAÇ YAYINLARI",TRT 1
-https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6jo8gz6q2uaz&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/htspor.png" group-title="MAÇ YAYINLARI",HT SPOR
 https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7oi72z5896zo&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
