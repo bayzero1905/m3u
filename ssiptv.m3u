@@ -1,5 +1,21 @@
 #EXTM3U
 
+# ♦♦♦♦♦ Mac ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/webdizi.webp" group-title="Mac",Mac 1
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/webdizi.webp" group-title="Mac",Mac 2
+https://andro.1286503.xyz/checklist/androstreamlivess1.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/webdizi.webp" group-title="Mac",Mac 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://taraftarium1074.xyz/
+https://46d.d72577a9dd0ec60.cfd/taraftarium/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Mac",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
+
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/veliaht.webp" group-title="TV DİZİLERİ",BeinSport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
