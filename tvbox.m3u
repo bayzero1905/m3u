@@ -43,6 +43,11 @@ https://jsistem33r.online/ssportplus/main.m3u8?_t=1784302771210
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT PLUS 6
 https://andro.226503.xyz/checklist/batutest.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT PLUS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer6859599e6c.click/
+https://dga1op10s1u3leo.33a6243d11525c.click/live/sssplus1/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/trt1.png" group-title="MAÇ YAYINLARI",TRT 1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6jo8gz6q2uaz&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 
@@ -204,9 +209,6 @@ https://vs7.photoflick.org/v/The.Sinner.S02E08.WEB-DL.1080p.H.264-HDM.DUAL/480.m
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ İçerde ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://www.ddizi.im/diziresimleri/icerde.jpg" group-title="İçerde",37.Bölüm
-https://vmcdn.ciner.com.tr/ht/2024/06/21/E2CF556BF9A802DD9A742CA813B24849_1280x720.mp4
-
 #EXTINF:0 tvg-logo="https://www.ddizi.im/diziresimleri/icerde.jpg" group-title="İçerde",38.Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/06/21/8336C36A2102E82BD96E17EA80761185_1280x720.mp4
 
