@@ -186,33 +186,72 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/1D8KstW2qT1CrZrkM
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="MAÇ YAYINLARI",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
-# ♦♦♦♦♦ The Sinner ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/thesinner.webp" group-title="The Sinner",4.Bölüm
-https://vs7.pictureflix.org/v/The.Sinner.S01E04.WEB-DL.1080p.H.264-HDM.DUAL/480.m3u8
+# ♦♦♦♦♦ Joe Pickett ♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett",1.Bölüm
+https://vs18.photofunny.org/v/Joe.Pickett.S01E01.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/thesinner.webp" group-title="The Sinner",5.Bölüm
-https://vs7.photoflax.org/v/The.Sinner.S01E05.WEB-DL.1080p.H.264-HDM.DUAL/480.m3u8
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett",2.Bölüm
+https://vs12.photoflix.org/v/Joe.Pickett.S01E02.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/thesinner.webp" group-title="The Sinner",6.Bölüm
-https://vs4.photoflick.org/v/The.Sinner.S01E06.WEB-DL.1080p.H.264-HDM.DUAL/480.m3u8
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett",3.Bölüm
+https://vs10.pictureflix.org/v/Joe.Pickett.S01E03.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/thesinner.webp" group-title="The Sinner",7.Bölüm
-https://vs4.photofunny.org/v/The.Sinner.S01E07.WEB-DL.1080p.H.264-HDM.DUAL/480.m3u8
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett",4.Bölüm
+https://vs14.photomag.biz/v/Joe.Pickett.S01E04.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/thesinner.webp" group-title="The Sinner",8.Bölüm
-https://vs4.photoflax.org/v/The.Sinner.S01E08.WEB-DL.1080p.H.264-HDM.DUAL/480.m3u8
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett",5.Bölüm
+https://vs9.photour.org/v/Joe.Pickett.S01E05.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/thesinner.webp" group-title="The Sinner",8.Bölüm
-https://vs7.photoflick.org/v/The.Sinner.S02E08.WEB-DL.1080p.H.264-HDM.DUAL/480.m3u8
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett",6.Bölüm
+https://vs19.photofunny.org/v/Joe.Pickett.S01E06.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="The Sinner",END
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett",7.Bölüm
+https://vs17.photoflax.org/v/Joe.Pickett.S01E07.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett",8.Bölüm
+https://vs15.photour.org/v/Joe.Pickett.S01E08.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett",9.Bölüm
+https://vs18.photostack.net/v/Joe.Pickett.S01E09.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett",10.Bölüm
+https://vs9.photoflick.org/v/Joe.Pickett.S01E10.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Joe Pickett",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
-# ♦♦♦♦♦ İçerde ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://www.ddizi.im/diziresimleri/icerde.jpg" group-title="İçerde",39.Bölüm Final
-https://vmcdn.ciner.com.tr/ht/2024/06/21/705DBBB1FEE692FD643951AC57AF0AA7_1280x720.mp4
+# ♦♦♦♦♦ Joe Pickett 2 ♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett 2",1.Bölüm
+https://vs9.photoflick.org/v/Joe.Pickett.S02E01.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="İçerde",END
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett 2",2.Bölüm
+https://vs18.photour.org/v/Joe.Pickett.S02E02.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett 2",3.Bölüm
+https://vs9.photoflick.org/v/Joe.Pickett.S02E03.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett 2",4.Bölüm
+https://vs19.photoflax.org/v/Joe.Pickett.S02E04.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett 2",5.Bölüm
+https://vs17.photoflick.org/v/Joe.Pickett.S02E05.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett 2",6.Bölüm
+https://vs16.photoflax.org/v/Joe.Pickett.S02E06.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett 2",7.Bölüm
+https://vs18.photomag.biz/v/Joe.Pickett.S02E07.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett 2",8.Bölüm
+https://vs14.photoflix.org/v/Joe.Pickett.S02E08.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett 2",9.Bölüm
+https://vs14.photoflax.org/v/Joe.Pickett.S02E09.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett 2",10.Bölüm
+https://vs14.pictureflix.org/v/Joe.Pickett.S02E10.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Joe Pickett 2",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 
