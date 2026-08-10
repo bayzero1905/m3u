@@ -13,13 +13,20 @@ https://startv-p3.mncdn.com/smil:cgh2_216_smil.smil/playlist.m3u8?st=OdmoAIp6A17
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://dizipal.bid/wp-content/uploads-webpc/uploads/2026/07/1-1.jpg.webp" group-title="FİLM",Oflu Hoca 5
+#EXTINF:0 tvg-logo="https://www.fullhdfilmizle.mom/wp-content/uploads/2026/07/Bak-Postaci-Geliyor-2025-izle.png" group-title="FİLM",Bak Postacı Geliyor (1:57)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://x.ag2m4.cfd/
-https://zm1w.uk-traffic-076.com/hls2/01/00033/o7niyyftc7mr_n/master.m3u8?t=4SLW5zIVPxBCXxTfaurL78MRUvdjXA7XKT-aUwoZN4k&s=1785169386&e=3600&v=47585710&srv=x1&i=0.0&sp=5000
+#EXTVLCOPT:http-referrer=https://fastplay.mom/video/kMw0jZv7yXgt
+https://fastplay.mom/manifests/kMw0jZv7yXgt/q720p.txt?verify=1786363200-IeguHUGvPdWWj1Mfu%2BsA%2FsUvQLxhloHNOEMGunvsW6w%3D
 
-#EXTINF:0 tvg-logo="https://dizipal.bid/wp-content/uploads-webpc/uploads/2026/07/1-1.jpg.webp" group-title="FİLM",Oflu Hoca 5 Yedek
-https://p.2turk.xyz/videos/AqUmMCIf/master.m3u8?v=1784881316
+#EXTINF:0 tvg-logo="https://www.fullhdfilmizle.mom/wp-content/uploads/2026/07/Firtina-Kiz-2026-izle.png" group-title="FİLM",Fırtına Kız (1:28)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://fastplay.mom/video/kMw0jZv7yXgt
+https://fastplay.mom/manifests/_O_yXR01NL8r/q720p.txt?verify=1786363200-DZ2xbPGzl6NeOrgPniIRhjQuoGE3iMee69rEKk6RQ%2FY%3D
+
+#EXTINF:0 tvg-logo="https://www.fullhdfilmizle.mom/wp-content/uploads/2026/08/Parcali-Yillar-2025-izle.png" group-title="FİLM",Parçalı Yıllar (2:07)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://fastplay.mom/video/kMw0jZv7yXgt
+https://fastplay.mom/manifests/4_ZTFkaPPadk/q720p.txt?verify=1786363200-ExUXv8k%2BcFe4cwbrhgRgxnP5nLVZ%2FcZ9j2LGx1%2BvVYU%3D
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="FİLM",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
@@ -185,17 +192,6 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/1D8KstW2qT1CrZrkM
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="MAÇ YAYINLARI",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
-
-# ♦♦♦♦♦ Joe Pickett 2 ♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett 2",9.Bölüm
-https://vs14.photoflax.org/v/Joe.Pickett.S02E09.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
-
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg" group-title="Joe Pickett 2",10.Bölüm
-https://vs14.pictureflix.org/v/Joe.Pickett.S02E10.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Joe Pickett 2",END
-https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
-
 
 # ♦♦♦♦♦ END ♦♦♦♦♦
 
