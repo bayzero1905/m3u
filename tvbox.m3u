@@ -1,4 +1,32 @@
 #EXTM3U
+# ♦♦♦♦♦ Good Girls ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.vip/v/504433/poster/watch-lg/good-girls.webp" group-title="Good Girls",1.Bölüm
+https://vs4.photoflix.org/v/Good.Girls.S01E01.WEB-DL.1080p.H.264-HDM.DUAL/360.m3u8
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.vip/v/504433/poster/watch-lg/good-girls.webp" group-title="Good Girls",2.Bölüm
+https://vs7.photoflax.org/v/Good.Girls.S01E02.WEB-DL.1080p.H.264-HDM.DUAL/360.m3u8
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.vip/v/504433/poster/watch-lg/good-girls.webp" group-title="Good Girls",3.Bölüm
+https://vs8.photofunny.org/v/Good.Girls.S01E03.WEB-DL.1080p.H.264-HDM.DUAL/360.m3u8
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.vip/v/504433/poster/watch-lg/good-girls.webp" group-title="Good Girls",4.Bölüm
+https://vs3.photofunny.org/v/Good.Girls.S01E04.WEB-DL.1080p.H.264-HDM.DUAL/360.m3u8
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.vip/v/504433/poster/watch-lg/good-girls.webp" group-title="Good Girls",5.Bölüm
+https://vs4.photomag.biz/v/Good.Girls.S01E05.WEB-DL.1080p.H.264-HDM.DUAL/360.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Good Girls",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
+
+# ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.fullhdfilmizle.mom/wp-content/uploads/2026/08/Parcali-Yillar-2025-izle.png" group-title="FİLM",Parçalı Yıllar (2:07)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://closeload.filmmakinesi.to/
+https://srv13.cdnimages3065.shop/hls/parcaliyillar-2025-webdl-tt38589364mp4-VsHnZfZJ5ba.mp4/txt/master.txt
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="FİLM",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
+
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/03/cirkinadis.jpg" group-title="TV DİZİLERİ",Çirkin 8.Bölüm
