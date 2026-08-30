@@ -69,11 +69,6 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTVLCOPT:http-referrer=https://formationfeed.net/
 https://s8.superadjacentsoddenly.xyz/hls2/01/00009/c11crce2cn5r_n/index-v1-a1.m3u8
 
-#EXTINF:0 tvg-logo="https://cdn.imags.me/uploads/posters/tmdb_6a918fe0ce3d8_6UqflU8Qqkz7Dq4swJPqs0ZJjY4.webp" group-title="FİLM",The Whisper Man
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://formationfeed.net/
-https://s8.superadjacentsoddenly.xyz/hls2/01/00009/d1igyff4r8ju_n/index-v1-a1.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="FİLM",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
