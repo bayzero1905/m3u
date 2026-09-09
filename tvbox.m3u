@@ -1,27 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://www.hdfilmizle.vip/v/504433/poster/watch-lg/good-girls.webp" group-title="Good Girls 4",11.Bölüm
-https://vs2.photoflax.org/v/Good.Girls.S04E11.WEB-DL.1080p.H.264-HDM.DUAL/360.m3u8
-
-#EXTINF:0 tvg-logo="https://www.hdfilmizle.vip/v/504433/poster/watch-lg/good-girls.webp" group-title="Good Girls 4",12.Bölüm
-https://vs7.photostack.net/v/Good.Girls.S04E12.WEB-DL.1080p.H.264-HDM.DUAL/360.m3u8
-
-#EXTINF:0 tvg-logo="https://www.hdfilmizle.vip/v/504433/poster/watch-lg/good-girls.webp" group-title="Good Girls 4",13.Bölüm
-https://vs7.photoflax.org/v/Good.Girls.S04E13.WEB-DL.1080p.H.264-HDM.DUAL/360.m3u8
-
-#EXTINF:0 tvg-logo="https://www.hdfilmizle.vip/v/504433/poster/watch-lg/good-girls.webp" group-title="Good Girls 4",14.Bölüm
-https://vs2.photomag.biz/v/Good.Girls.S04E14.WEB-DL.1080p.H.264-HDM.DUAL/360.m3u8
-
-#EXTINF:0 tvg-logo="https://www.hdfilmizle.vip/v/504433/poster/watch-lg/good-girls.webp" group-title="Good Girls 4",15.Bölüm
-#EXTVLCOPT:http-referrer=https://hdfilmcehennemi.mobi/
-https://hls9.playmix.uno/hls/goodgirls-s04e15-webdl-trdual-tt6474378-oxnw2q9nl5jrmp4-ghWIrVAyLOY.mp4/master.txt
-
-#EXTINF:0 tvg-logo="https://www.hdfilmizle.vip/v/504433/poster/watch-lg/good-girls.webp" group-title="Good Girls 4",16.Bölüm
-https://vs1.photoflix.org/v/Good.Girls.S04E16.WEB-DL.1080p.H.264-HDM.DUAL/360.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Good Girls 4",END
-https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
-
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://cdn.imags.me/uploads/posters/tmdb_6a882901d1771_6CD5QPUVDSS9hZpkYHKGyVZCGyR.webp" group-title="FİLM",Kardeşler Araştırma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -45,13 +23,18 @@ https://startv-p3.mncdn.com/smil:cgh2_216_smil.smil/playlist.m3u8?st=OdmoAIp6A17
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ MAÇ YAYINLARI ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top.webp" group-title="MAÇ YAYINLARI",Tabii Spor 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer6859599e6c.click/
+https://dga1op10s1u3lea.82250d06d39d38.click/live/tabiispor1/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://main.uxsyplayer6859599e6c.click/
 https://dga1op10s1u3leo.33a6243d11525c.click/live/sssplus1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT PLUS 1
-https://hlsforever.forgetmoenszo.workers.dev/https://corestream.siteyaptim.live//hls/s-sport.m3u8
+https://corestream.ardastream.live//tabii/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT PLUS 2
 https://andro.1286503.xyz/checklist/batutest.m3u8
