@@ -11,6 +11,15 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/mercankoskafis.jpg" group-title="DİZİ",Mercan Köşk 1.Bölüm
+https://video.twimg.com/amplify_video/2096323396942643200/pl/ukme-xiQ2d8jHuhg.m3u8?tag=29
+
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/mercankoskafis.jpg" group-title="DİZİ",Mercan Köşk 2.Bölüm
+https://video.twimg.com/amplify_video/2098870029580152833/pl/X25xUxxlN5_2g6HA.m3u8?tag=29
+
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/haysiyetafis.jpg" group-title="DİZİ",Haysiyet 1.Bölüm
+https://video.twimg.com/amplify_video/2097416452257234944/pl/H_c6ctbcD6uzN8Nk.m3u8?tag=29
+
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/03/cirkinadis.jpg" group-title="TV DİZİLERİ",Çirkin 8.Bölüm
 https://video.twimg.com/amplify_video/2056119709146173440/pl/DrHYCVfUzBl-pr-W.m3u8?tag=27
 
