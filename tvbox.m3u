@@ -6,13 +6,12 @@
 #EXTVLCOPT:http-referrer=https://formationfeed.net/
 https://s8.superadjacentsoddenly.xyz/hls2/01/00009/c11crce2cn5r_n/index-v1-a1.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="FİLM",END
-https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
-
-
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/03/cirkinadis.jpg" group-title="TV DİZİLERİ",Çirkin 9.Bölüm
-https://video.twimg.com/amplify_video/2101779422806163456/pl/DZGO2Bj3hX1G8i3v.m3u8?tag=29
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/baskalarinhayatiafis.jpg" group-title="TV DİZİLERİ",Başkasının Hayatı 1.Bölüm
+https://video.twimg.com/amplify_video/2103928837331431424/pl/LP06BzSaeYIEjkJ-.m3u8?tag=29
+
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/mercankoskafis.jpg" group-title="TV DİZİLERİ",Mercan Köşk 4.Bölüm
+https://video.twimg.com/amplify_video/2103956403853365248/pl/jYzmqkeg7gALsx7U.m3u8?tag=29
 
 # ♦♦♦♦♦ MAÇ YAYINLARI ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top.webp" group-title="MAÇ YAYINLARI",Tabii Spor 1
@@ -180,9 +179,6 @@ https://r0.4928d54d950ee70q17.lat/yayinex1.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT PLUS 4
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/1D8KstW2qT1CrZrkMOsUIsa9O9CImUJM1ZmGjNusxOOLoPNwtJvSg8O5sbKNcCCEMSTaGBbb0OB1n9oqTP3p0w/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="MAÇ YAYINLARI",END
-https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 # ♦♦♦♦♦ END ♦♦♦♦♦
 
