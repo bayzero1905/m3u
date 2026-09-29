@@ -180,9 +180,32 @@ https://r0.4928d54d950ee70q17.lat/yayinex1.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT PLUS 4
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/1D8KstW2qT1CrZrkMOsUIsa9O9CImUJM1ZmGjNusxOOLoPNwtJvSg8O5sbKNcCCEMSTaGBbb0OB1n9oqTP3p0w/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live
 
-███████████████████████████
-         Uysallar
-███████████████████████████
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+      Uysallar
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+#EXTINF:0 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/uysallar.webp" group-title="Uysallar",1.Bölüm
+https://storage.diziyou.one/episodes/17901/480p.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/uysallar.webp" group-title="Uysallar",2.Bölüm
+https://storage.diziyou.one/episodes/17902/480p.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/uysallar.webp" group-title="Uysallar",3.Bölüm
+https://storage.diziyou.one/episodes/17903/480p.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/uysallar.webp" group-title="Uysallar",4.Bölüm
+https://storage.diziyou.one/episodes/17904/480p.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/uysallar.webp" group-title="Uysallar",5.Bölüm
+https://storage.diziyou.one/episodes/17905/480p.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/uysallar.webp" group-title="Uysallar",6.Bölüm
+https://storage.diziyou.one/episodes/17906/480p.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/uysallar.webp" group-title="Uysallar",7.Bölüm
+https://storage.diziyou.one/episodes/17907/480p.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/uysallar.webp" group-title="Uysallar",8.Bölüm
+https://storage.diziyou.one/episodes/17908/480p.m3u8
 #EXTINF:0 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/uysallar.webp" group-title="Uysallar",1.Bölüm
 https://storage.diziyou.one/episodes/17901/480p.m3u8
 
