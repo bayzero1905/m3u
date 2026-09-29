@@ -219,6 +219,27 @@ https://storage.diziyou.one/episodes/17908/480p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Uysallar",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+         X
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/X.webp" group-title="X",1
+https://video.twimg.com/amplify_video/2104660415829426176/pl/95TWXvQ2Iiq9Xz0O.m3u8?tag=29&v=125
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/X.webp" group-title="X",2
+https://video.twimg.com/amplify_video/2104640461096849408/pl/kpEj_GcuDeaZsumW.m3u8?tag=29&v=c65
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/X.webp" group-title="X",3
+
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/X.webp" group-title="X",4
+
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/X.webp" group-title="X",5
+
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="X",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
+
 
 # ♦♦♦♦♦ END ♦♦♦♦♦
 
