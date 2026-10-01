@@ -1,6 +1,6 @@
 #EXTM3U
 
-█ █ █ █ █ █ █ █ █ █ FİLMLER
+███████████████████████████ ► FİLMLER
 #EXTINF:0 tvg-logo="https://cdn.imags.me/uploads/posters/tmdb_6a882901d1771_6CD5QPUVDSS9hZpkYHKGyVZCGyR.webp" group-title="FİLMLER",Kardeşler Araştırma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://formationfeed.net/
@@ -9,7 +9,7 @@ https://s8.superadjacentsoddenly.xyz/hls2/01/00009/c11crce2cn5r_n/index-v1-a1.m3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="FİLMLER",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
-█ █ █ █ █ █ █ █ █ █ TV DİZİLERİ
+███████████████████████████ ► TV DİZİLERİ
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/anneyarisiafis.jpg" group-title="TV DİZİLERİ",Anne Yarısı 2.Bölüm
 https://video.twimg.com/amplify_video/2105029117351473152/pl/pOkcwQiQ0637iZNF.m3u8?tag=29
 
@@ -19,7 +19,7 @@ https://video.twimg.com/amplify_video/2105033330664022016/pl/8tK7YLE-a6mJPplD.m3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
-█ █ █ █ █ █ █ █ █ █ MAÇ YAYINLARI
+███████████████████████████ ► MAÇ YAYINLARI
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top.webp" group-title="MAÇ YAYINLARI",Tabii Spor 1
 https://corestream.d72377a9ds0ec71.cfd//tabii1/tracks-v1a1/mono.m3u8
 
@@ -189,7 +189,7 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/1D8KstW2qT1CrZrkM
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="MAÇ YAYINLARI",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
-█ █ █ █ █ █ █ █ █ █ UYSALLAR
+███████████████████████████ ► UYSALLAR
 #EXTINF:0 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/uysallar.webp" group-title="Uysallar",1.Bölüm
 https://storage.diziyou.one/episodes/17901/480p.m3u8
 
@@ -217,7 +217,7 @@ https://storage.diziyou.one/episodes/17908/480p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Uysallar",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
-█ █ █ █ █ █ █ █ █ █ X
+███████████████████████████ ► X
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/X.webp" group-title="X",1
 https://video.twimg.com/amplify_video/2104660415829426176/pl/95TWXvQ2Iiq9Xz0O.m3u8?tag=29&v=125
 
@@ -236,7 +236,7 @@ https://video.twimg.com/amplify_video/2104957656549019648/pl/wo5jJt4V6NYp9gBc.m3
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 
-█ █ █ █ █ █ █ █ █ █ Vis a Vis 1.Sezon
+███████████████████████████ ► Vis a Vis 1.Sezon
 #EXTINF:0 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/vis-a-vis.webp" group-title="Vis a Vis 1.Sezon",1.Bölüm
 https://storage.diziyou.one/episodes/18851_tr/480p.m3u8
 
@@ -273,8 +273,7 @@ https://storage.diziyou.one/episodes/18861_tr/480p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Vis a Vis 1.Sezon",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
-
-█ █ █ █ █ █ █ █ █ █ Vis a Vis 2.Sezon
+███████████████████████████ ► Vis a Vis 2.Sezon
 #EXTINF:0 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/vis-a-vis.webp" group-title="Vis a Vis 2.Sezon",1.Bölüm
 https://storage.diziyou.one/episodes/18862_tr/480p.m3u8
 
@@ -317,8 +316,7 @@ https://storage.diziyou.one/episodes/18874_tr/480p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Vis a Vis 2.Sezon",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
-
-█ █ █ █ █ █ █ █ █ █ Vis a Vis 3.Sezon
+███████████████████████████ ► Vis a Vis 3.Sezon
 #EXTINF:0 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/vis-a-vis.webp" group-title="Vis a Vis 3.Sezon",1.Bölüm
 https://storage.diziyou.one/episodes/18875_tr/480p.m3u8
 
@@ -346,8 +344,7 @@ https://storage.diziyou.one/episodes/18882_tr/480p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Vis a Vis 3.Sezon",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
-
-█ █ █ █ █ █ █ █ █ █ Vis a Vis 4.Sezon
+███████████████████████████ ► Vis a Vis 4.Sezon
 #EXTINF:0 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/vis-a-vis.webp" group-title="Vis a Vis 4.Sezon",1.Bölüm
 https://storage.diziyou.one/episodes/18883_tr/480p.m3u8
 
