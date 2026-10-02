@@ -16,13 +16,13 @@ https://video.twimg.com/amplify_video/2105029117351473152/pl/pOkcwQiQ0637iZNF.m3
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/haysiyetafis.jpg" group-title="TV DİZİLERİ",Haysiyet 4.Bölüm
 https://video.twimg.com/amplify_video/2105033330664022016/pl/8tK7YLE-a6mJPplD.m3u8?tag=29
 
-#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/gunesindogduguyerafis.jpg" group-title="TV DİZİLERİ",Güneşin Doğduğu Yer 3.Bölüm
-https://video.twimg.com/amplify_video/2105761592654647296/pl/5VqXujgxlPPSJ9vJ.m3u8?tag=29
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 ███████████████████████████ ► MAÇ YAYINLARI
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/atv.png" group-title="MAÇ YAYINLARI",ATV
+https://trkvz.daioncdn.net/atv-overflow/atv-overflow_1080p.m3u8?e=1791012475&st=LPa5jCKDSRAFGVfg0CYN5Q&sid=8sutvmkq6ana&app=d197c8b9-7b10-4c41-ba0e-d4f2f69a5caa&ce=3
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/top.webp" group-title="MAÇ YAYINLARI",Tabii Spor 1
 https://corestream.d72377a9ds0ec71.cfd//tabii1/tracks-v1a1/mono.m3u8
 
