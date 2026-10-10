@@ -10,17 +10,20 @@ https://s8.superadjacentsoddenly.xyz/hls2/01/00009/c11crce2cn5r_n/index-v1-a1.m3
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 ███████████████████████████ ► TV DİZİLERİ
-#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/gunesindogduguyerafis.jpg" group-title="TV DİZİLERİ",Güneşin Doğduğu Yer 4.Bölüm
-https://video.twimg.com/amplify_video/2108303491177349120/pl/VpoGQPANREYFyY7b.m3u8?tag=29
-
-#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/omurustaafis.jpg" group-title="TV DİZİLERİ",Ömür Usta 2.Bölüm
-https://video.twimg.com/amplify_video/2106839191698931712/pl/-TEk4fTU1p3qn-Wa.m3u8?tag=29
-
-#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/baskalarinhayatiafis.jpg" group-title="TV DİZİLERİ",Başkasının Hayatı 2.Bölüm
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/baskalarinhayatiafis.jpg" group-title="TV DİZİLERİ",Başkalarının Hayatı 2.Bölüm
 https://video.twimg.com/amplify_video/2106492411551625217/pl/f-iph65Zk8dWmyZ4.m3u8?tag=29
+
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/baskalarinhayatiafis.jpg" group-title="TV DİZİLERİ",Başkalarının Hayatı 3.Bölüm
+https://video.twimg.com/amplify_video/2109025195344244736/pl/bSjogWTOV-ACBl0D.m3u8?tag=29
 
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/mercankoskafis.jpg" group-title="TV DİZİLERİ",Mercan Köşk 5.Bölüm
 https://video.twimg.com/amplify_video/2106491000013103105/pl/CWIfst8ZiijaK_vh.m3u8?tag=29
+
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/mercankoskafis.jpg" group-title="TV DİZİLERİ",Mercan Köşk 6.Bölüm
+https://video.twimg.com/amplify_video/2109027441209393152/pl/wtknr1crK4iFu904.m3u8?tag=29
+
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/omurustaafis.jpg" group-title="TV DİZİLERİ",Ömür Usta 2.Bölüm
+https://video.twimg.com/amplify_video/2106839191698931712/pl/-TEk4fTU1p3qn-Wa.m3u8?tag=29
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
