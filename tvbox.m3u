@@ -16,14 +16,14 @@ https://video.twimg.com/amplify_video/2106492411551625217/pl/f-iph65Zk8dWmyZ4.m3
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/baskalarinhayatiafis.jpg" group-title="TV DİZİLERİ",Başkalarının Hayatı 3.Bölüm
 https://video.twimg.com/amplify_video/2109025195344244736/pl/bSjogWTOV-ACBl0D.m3u8?tag=29
 
-#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/mercankoskafis.jpg" group-title="TV DİZİLERİ",Mercan Köşk 5.Bölüm
-https://video.twimg.com/amplify_video/2106491000013103105/pl/CWIfst8ZiijaK_vh.m3u8?tag=29
-
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/mercankoskafis.jpg" group-title="TV DİZİLERİ",Mercan Köşk 6.Bölüm
 https://video.twimg.com/amplify_video/2109027441209393152/pl/wtknr1crK4iFu904.m3u8?tag=29
 
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/omurustaafis.jpg" group-title="TV DİZİLERİ",Ömür Usta 2.Bölüm
 https://video.twimg.com/amplify_video/2106839191698931712/pl/-TEk4fTU1p3qn-Wa.m3u8?tag=29
+
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/omurustaafis.jpg" group-title="TV DİZİLERİ",Ömür Usta 3.Bölüm
+https://video.twimg.com/amplify_video/2109377572475658240/pl/yzpNBMH1Z_bMiJ91.m3u8?tag=29
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
@@ -240,7 +240,7 @@ https://video.twimg.com/amplify_video/2104682861487849472/pl/pXGg_ml3GWaWwYqU.m3
 https://video.twimg.com/amplify_video/2104957656549019648/pl/wo5jJt4V6NYp9gBc.m3u8?tag=29
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/X.webp" group-title="X",5
-https://video.twimg.com/amplify_video/2107555505157627904/pl/PCZr8HQaX1mOrMLj.m3u8?tag=29&v=663
+https://video.twimg.com/amplify_video/2109335161426821120/pl/zmjd67k2h7Dk0CbB.m3u8?tag=29
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="X",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
