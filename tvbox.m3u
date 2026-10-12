@@ -1,5 +1,39 @@
 #EXTM3U
 
+███████████████████████████ ► Alı Kara
+#EXTINF:0 tvg-logo="https://dizipal.now/wp-content/uploads/2026/10/alikara-poster.jpg" group-title="Alı Kara",1.Bölüm
+https://video.twimg.com/amplify_video/2105644706516336640/pl/Wbg6y0CSBoUjM6-6.m3u8?tag=29&variant_version=1
+
+#EXTINF:0 tvg-logo="https://dizipal.now/wp-content/uploads/2026/10/alikara-poster.jpg" group-title="Alı Kara",2.Bölüm
+https://video.twimg.com/amplify_video/2105645675874508801/pl/V7HtJvNW6j7tnEjQ.m3u8?tag=29&variant_version=1
+
+#EXTINF:0 tvg-logo="https://dizipal.now/wp-content/uploads/2026/10/alikara-poster.jpg" group-title="Alı Kara",3.Bölüm
+https://video.twimg.com/amplify_video/2105646822895079424/pl/bHNfJ3eUVDNz4rVb.m3u8?tag=29&variant_version=1
+
+#EXTINF:0 tvg-logo="https://dizipal.now/wp-content/uploads/2026/10/alikara-poster.jpg" group-title="Alı Kara",4.Bölüm
+https://video.twimg.com/amplify_video/2105646872907988992/pl/ARKXTx7HDdifKddV.m3u8?tag=29&variant_version=1
+
+#EXTINF:0 tvg-logo="https://dizipal.now/wp-content/uploads/2026/10/alikara-poster.jpg" group-title="Alı Kara",5.Bölüm
+https://video.twimg.com/amplify_video/2105646929547816960/pl/bD7ahnXiCKD5ys_Y.m3u8?tag=29&variant_version=1
+
+#EXTINF:0 tvg-logo="https://dizipal.now/wp-content/uploads/2026/10/alikara-poster.jpg" group-title="Alı Kara",6.Bölüm
+https://video.twimg.com/amplify_video/2105646973122387968/pl/suaMym8jiDEl44Q3.m3u8?tag=29&variant_version=1
+
+#EXTINF:0 tvg-logo="https://dizipal.now/wp-content/uploads/2026/10/alikara-poster.jpg" group-title="Alı Kara",7.Bölüm
+https://video.twimg.com/amplify_video/2105650072381771776/pl/ZF3BUDHmVIQmqhGg.m3u8?tag=29&variant_version=1
+
+#EXTINF:0 tvg-logo="https://dizipal.now/wp-content/uploads/2026/10/alikara-poster.jpg" group-title="Alı Kara",8.Bölüm
+https://video.twimg.com/amplify_video/2105651297869238272/pl/DwoDLezg2GFOJdQb.m3u8?tag=29&variant_version=1
+
+#EXTINF:0 tvg-logo="https://dizipal.now/wp-content/uploads/2026/10/alikara-poster.jpg" group-title="Alı Kara",9.Bölüm
+https://video.twimg.com/amplify_video/2108100000320229376/pl/Jy2Ty-ydghMzyZxJ.m3u8?tag=29
+
+#EXTINF:0 tvg-logo="https://dizipal.now/wp-content/uploads/2026/10/alikara-poster.jpg" group-title="Alı Kara",10.Bölüm
+https://video.twimg.com/amplify_video/2108100838686097408/pl/peIZE7lf4uHdiMGY.m3u8?tag=29
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="Alı Kara",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
+
 ███████████████████████████ ► FİLMLER
 #EXTINF:0 tvg-logo="https://cdn.imags.me/uploads/posters/tmdb_6a882901d1771_6CD5QPUVDSS9hZpkYHKGyVZCGyR.webp" group-title="FİLMLER",Kardeşler Araştırma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
