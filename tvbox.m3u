@@ -1,9 +1,6 @@
 #EXTM3U
 
 ███████████████████████████ ► Alı Kara
-#EXTINF:0 tvg-logo="https://dizipal.now/wp-content/uploads/2026/10/alikara-poster.jpg" group-title="Alı Kara",9.Bölüm
-https://video.twimg.com/amplify_video/2108100000320229376/pl/Jy2Ty-ydghMzyZxJ.m3u8?tag=29
-
 #EXTINF:0 tvg-logo="https://dizipal.now/wp-content/uploads/2026/10/alikara-poster.jpg" group-title="Alı Kara",10.Bölüm
 https://video.twimg.com/amplify_video/2108100838686097408/pl/peIZE7lf4uHdiMGY.m3u8?tag=29
 
@@ -34,6 +31,9 @@ https://video.twimg.com/amplify_video/2106839191698931712/pl/-TEk4fTU1p3qn-Wa.m3
 
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/omurustaafis.jpg" group-title="TV DİZİLERİ",Ömür Usta 3.Bölüm
 https://video.twimg.com/amplify_video/2109377572475658240/pl/yzpNBMH1Z_bMiJ91.m3u8?tag=29
+
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/omurustaafis.jpg" group-title="TV DİZİLERİ",Ömür Usta 4.Bölüm
+https://video.twimg.com/amplify_video/2111920643730010112/pl/aqJEbfjPsG3VBWiQ.m3u8?tag=29
 
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/anneyarisiafis.jpg" group-title="TV DİZİLERİ",Anne Yarısı 4.Bölüm
 https://video.twimg.com/amplify_video/2110108513238192128/pl/eA-vGxsCgLlah_o3.m3u8?tag=29
@@ -405,15 +405,6 @@ https://storage.diziyou.one/episodes/18890_tr/480p.m3u8
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 ███████████████████████████ ► Karun Hazinesi
-#EXTINF:0 tvg-logo="https://dizipal.now/wp-content/uploads/2026/10/money-trap-poster.jpg" group-title="Karun Hazinesi",1.Bölüm
-https://video.twimg.com/amplify_video/2111101188036763648/pl/z4TFOtGcwVnNNVFM.m3u8?tag=29
-
-#EXTINF:0 tvg-logo="https://dizipal.now/wp-content/uploads/2026/10/money-trap-poster.jpg" group-title="Karun Hazinesi",2.Bölüm
-https://video.twimg.com/amplify_video/2111101226192437248/pl/158qh0s14LuY-yAA.m3u8?tag=29
-
-#EXTINF:0 tvg-logo="https://dizipal.now/wp-content/uploads/2026/10/money-trap-poster.jpg" group-title="Karun Hazinesi",3.Bölüm
-https://video.twimg.com/amplify_video/2111101287274004480/pl/1MaIkDveg4M8arJD.m3u8?tag=29
-
 #EXTINF:0 tvg-logo="https://dizipal.now/wp-content/uploads/2026/10/money-trap-poster.jpg" group-title="Karun Hazinesi",4.Bölüm
 https://video.twimg.com/amplify_video/2111101366693203968/pl/IB55YXRL1nkGTW7H.m3u8?tag=29
 
