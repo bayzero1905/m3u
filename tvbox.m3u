@@ -10,6 +10,9 @@ https://s8.superadjacentsoddenly.xyz/hls2/01/00009/c11crce2cn5r_n/index-v1-a1.m3
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 ███████████████████████████ ► TV DİZİLERİ
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/haysiyetafis.jpg" group-title="TV DİZİLERİ",Haysiyet 9.Bölüm
+https://video.twimg.com/amplify_video/2120258104407322624/pl/PH8gScgFqafJaR5v.m3u8?tag=29
+
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/baskalarinhayatiafis.jpg" group-title="TV DİZİLERİ",Başkalarının Hayatı 2.Bölüm
 https://video.twimg.com/amplify_video/2106492411551625217/pl/f-iph65Zk8dWmyZ4.m3u8?tag=29
 
@@ -52,11 +55,8 @@ https://video.twimg.com/amplify_video/2112646413955805184/pl/rEdldNhK5z3IFB4e.m3
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/anneyarisiafis.jpg" group-title="TV DİZİLERİ",Anne Yarısı 6.Bölüm
 https://video.twimg.com/amplify_video/2115181148821143552/pl/Cu4tqL-H5es4YxFj.m3u8?tag=29
 
-#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/mercankoskafis.jpg" group-title="TV DİZİLERİ",Mercan Köşk 7.Bölüm Final
-https://video.twimg.com/amplify_video/2111563980321828864/pl/iJbwyjFfMRQ6G5sO.m3u8?tag=29
-
-#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/haysiyetafis.jpg" group-title="TV DİZİLERİ",Haysiyet 8.Bölüm
-https://video.twimg.com/amplify_video/2115185747443511297/pl/uFE9Zxm8F25CMf2E.m3u8?tag=29
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/anneyarisiafis.jpg" group-title="TV DİZİLERİ",Anne Yarısı 7.Bölüm
+https://video.twimg.com/amplify_video/2120255487841058818/pl/2GrTJG8jQCsO0y8o.m3u8?tag=29
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
