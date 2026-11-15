@@ -46,6 +46,9 @@ https://video.twimg.com/amplify_video/2116995097560489984/pl/H4xWanwd5PHk5HXu.m3
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/omurustaafis.jpg" group-title="TV DİZİLERİ",Ömür Usta 7.Bölüm
 https://video.twimg.com/amplify_video/2119532283707129856/pl/pbNrjzqNAkgFJLVm.m3u8?tag=29
 
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/omurustaafis.jpg" group-title="TV DİZİLERİ",Ömür Usta 8.Bölüm
+https://video.twimg.com/amplify_video/2122065977483448320/pl/WYCPTkkPz1bge5yW.m3u8?tag=29
+
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/anneyarisiafis.jpg" group-title="TV DİZİLERİ",Anne Yarısı 4.Bölüm
 https://video.twimg.com/amplify_video/2110108513238192128/pl/eA-vGxsCgLlah_o3.m3u8?tag=29
 
@@ -416,15 +419,6 @@ https://storage.diziyou.one/episodes/18890_tr/480p.m3u8
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
 
 ███████████████████████████ ► Behzat Ç
-#EXTINF:0 tvg-logo="https://dizipalizm.com/wp-content/uploads/2026/10/behzat-c-bir-ankara-polisiyesi-poster.jpg" group-title="Behzat Ç",4.Bölüm
-https://video.twimg.com/amplify_video/2113956154791342080/pl/DLfMbYVjZFspr1Mm.m3u8?tag=29
-
-#EXTINF:0 tvg-logo="https://dizipalizm.com/wp-content/uploads/2026/10/behzat-c-bir-ankara-polisiyesi-poster.jpg" group-title="Behzat Ç",5.Bölüm
-https://video.twimg.com/amplify_video/2113956169521790976/pl/fpmRIQRK9fWha6Aj.m3u8?tag=29
-
-#EXTINF:0 tvg-logo="https://dizipalizm.com/wp-content/uploads/2026/10/behzat-c-bir-ankara-polisiyesi-poster.jpg" group-title="Behzat Ç",6.Bölüm
-https://video.twimg.com/amplify_video/2113946424043786240/pl/IxIlZMtBuUEJJpl8.m3u8?tag=29
-
 #EXTINF:0 tvg-logo="https://dizipalizm.com/wp-content/uploads/2026/10/behzat-c-bir-ankara-polisiyesi-poster.jpg" group-title="Behzat Ç",7.Bölüm
 https://video.twimg.com/amplify_video/2113943847646466048/pl/eDMIydCprciJiIX1.m3u8?tag=29
 
