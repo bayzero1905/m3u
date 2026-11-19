@@ -1,10 +1,10 @@
 #EXTM3U
 
 ███████████████████████████ ► FİLMLER
-#EXTINF:0 tvg-logo="https://cdn.imags.me/uploads/posters/tmdb_6a882901d1771_6CD5QPUVDSS9hZpkYHKGyVZCGyR.webp" group-title="FİLMLER",Kardeşler Araştırma
+#EXTINF:0 tvg-logo="https://filmmakinesi.to/uploads/postlar/afis/son-yemek-2026.jpg-thumb-detay.webp" group-title="FİLMLER",Son Yemek
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://formationfeed.net/
-https://s8.superadjacentsoddenly.xyz/hls2/01/00009/c11crce2cn5r_n/index-v1-a1.m3u8
+#EXTVLCOPT:http-referrer=https://closeload.filmmakinesi.to/
+https://srv12.cdnimages3369.shop/hls/sonyemek-2026-webdl-tt50016818mp4-lMqkksYn7AD.mp4/txt/master.txt
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.webp" group-title="FİLMLER",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.webm
