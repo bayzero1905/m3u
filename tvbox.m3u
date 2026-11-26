@@ -1,14 +1,5 @@
 #EXTM3U
 
-# ■■■■■■■■■■■■■■■■■■■■■■■■ ➤ _Kick_
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kck.webp" group-title="Kick",Yayın 1
-https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.hROTKCGgMZo4.m3u8?browser_family=chrome&browser_version=158.0&cdm=wv&os_name=Windows&os_version=NT%2010.0&platform=web&player_backend=mediaplayer&player_version=1.56.2&supported_codecs=av1,h264&token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6Ly9raWNrLmNvbSwgaHR0cHM6Ly8qLmtpY2suY29tLCBodHRwczovL2Vhc3lnby1kcm9wLWtpY2suY29tLCBodHRwczovLyouZWFzeWdvLWRyb3Ata2ljay5jb20sIGh0dHBzOi8va2ljay1wcmVwcm9kdWN0aW9uLmNvbSwgaHR0cHM6Ly8qLmtpY2stcHJlcHJvZHVjdGlvbi5jb20sIGh0dHBzOi8va2ljay1kZXZlbG9wbWVudC5jb20sIGh0dHBzOi8vKi5raWNrLWRldmVsb3BtZW50LmNvbSwgaHR0cHM6Ly94Ym94LmtpY2suY29tLCBodHRwczovL3BsYXlzdGF0aW9uLmtpY2suY29tLCBodHRwczovL3d3dy5nc3RhdGljLmNvbSwgaHR0cHM6Ly92YXAuZWFzeWdvLWRyb3Ata2ljay5jb20sIGh0dHBzOi8vdmFwLmtpY2suY29tLCBodHRwczovL3ZhcC5raWNrLXByZXByb2R1Y3Rpb24uY29tLCIsImF3czphZHMtb3B0LW91dCI6dHJ1ZSwiYXdzOmNoYW5uZWwtYXJuIjoiYXJuOmF3czppdnM6dXMtd2VzdC0yOjE5NjIzMzc3NTUxODpjaGFubmVsL2hST1RLQ0dnTVpvNCIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50IjpmYWxzZSwiYXdzOnN1YnRpdGxlLWxhbmd1YWdlcyI6W10sImV4cCI6MTc5NTQ1Njc2OH0.hYOle7kJdDzO8T5iCblneNK01U_h8AYXQ0mLe1y5yRynPttiDazR1a0BzuqRt5jSu0n5qupQH-tQtAGRRv0-jINnYJwKIoPohyjxXB1g8WfhjT_rRWnSnBCk_H44qyYE
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kck.webp" group-title="Kick",Yayın 2
-
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kck.webp" group-title="Kick",Yayın 3
-
 # ■■■■■■■■■■■■■■■■■■■■■■■■ ➤ _FİLMLER_
 #EXTINF:0 tvg-logo="https://filmmakinesi.to/uploads/postlar/afis/son-yemek-2026.jpg-thumb-detay.webp" group-title="FİLMLER",Son Yemek
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -16,6 +7,9 @@ https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.19
 https://srv8.cdnimages2120.cyou/hls/yellowjackets-s01e01-webdl-trdual-tt11041332-o597qr992d8ymp4-LNPBWUK33RX.mp4/txt/master.txt
 
 # ■■■■■■■■■■■■■■■■■■■■■■■■ ➤ _TV DİZİLERİ_
+#EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/gunesindogduguyerafis.jpg" group-title="TV DİZİLERİ",Güneşin Doğduğu Yer 10.Bölüm
+https://video.twimg.com/amplify_video/2126060237857677312/pl/arEbB67ogjFwj08E.m3u8?tag=29
+
 #EXTINF:0 tvg-logo="https://www.trdiziizle.tv/wp-content/uploads/2026/09/baskalarinhayatiafis.jpg" group-title="TV DİZİLERİ",Başkalarının Hayatı 2.Bölüm
 https://video.twimg.com/amplify_video/2106492411551625217/pl/f-iph65Zk8dWmyZ4.m3u8?tag=29
 
